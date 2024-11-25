@@ -1,5 +1,5 @@
-[13:28:20] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[13:28:20] [main/INFO]: Loading 54 mods:
+[20:45:11] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[20:45:11] [main/INFO]: Loading 54 mods:
 	- appleskin 3.0.6+mc1.21.3
 	   \-- cloth-config 16.0.141
 	        \-- cloth-basic-math 0.6.1
@@ -65,485 +65,138 @@
 	- minecraft 1.21.3
 	- structory 1.3.7
 	- waystones 21.3.3
-[13:28:21] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/D:/Pie/Server%20MC/CST_Server/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[13:28:21] [main/INFO]: Compatibility level set to JAVA_21
-[13:28:21] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[13:28:21] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[13:28:22] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[13:28:22] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[13:28:22] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[13:28:35] [main/INFO]: Initializing ServerSide Packet Registries
-[13:28:35] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:28:37] [Worker-Main-3/ERROR]: Couldn't parse data file 'structory:harvest/old_manor/treasure' from 'structory:loot_table/harvest/old_manor/treasure.json': DataResult.Error['Item must not be minecraft:air; Item must not be minecraft:air': net.minecraft.class_52@3884c3a7]
-[13:28:38] [main/INFO]: Loaded 1384 recipes
-[13:28:38] [main/INFO]: Loaded 1495 advancements
-[13:28:38] [main/INFO]: Applied 66 biome modifications to 63 of 64 new biomes in 14.42 ms
-[13:28:38] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[13:28:38] [Server thread/INFO]: Loading properties
-[13:28:38] [Server thread/INFO]: Default game type: SURVIVAL
-[13:28:38] [Server thread/INFO]: Generating keypair
-[13:28:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:28:39] [Server thread/INFO]: Using default channel type
-[13:28:39] [Server thread/INFO]: Preparing level "world"
-[13:28:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:28:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:28:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:28:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:28:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:28:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:28:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:28:42] [Server thread/INFO]: Time elapsed: 2714 ms
-[13:28:42] [Server thread/INFO]: Done (3.398s)! For help, type "help"
-[13:28:42] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[13:28:42] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[13:28:42] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[13:28:42] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[13:28:42] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[13:28:42] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
-[13:28:42] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[13:28:42] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@56ef7e2f for service interface journeymap.api.services.ClientPlatformService
-[13:28:42] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@2148fa4a for service interface journeymap.api.services.CommonPlatformService
-[13:29:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:32:01] [User Authenticator #1/INFO]: UUID of player Marypoppin888 is c2340b4a-e261-492f-a067-75c231dc8d70
-[13:32:03] [Server thread/INFO]: Marypoppin888[/172.30.249.12:62578] logged in with entity id 7 at (60.74138619203136, 63.0, 373.5568159672304)
-[13:32:03] [Server thread/INFO]: Marypoppin888 joined the game
-[13:32:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3469ms or 69 ticks behind
-[13:32:28] [User Authenticator #2/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
-[13:32:29] [Server thread/INFO]: CChatchawam[/172.30.99.150:49185] logged in with entity id 375 at (42.262383318451036, 68.0, 379.68508439481377)
-[13:32:29] [Server thread/INFO]: CChatchawam joined the game
-[13:32:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8288ms or 165 ticks behind
-[13:32:56] [Server thread/WARN]: CChatchawam moved too quickly! -5.964301964704603,4.0,8.081226721535586
-[13:33:14] [Server thread/WARN]: CChatchawam moved too quickly! 9.384349200386602,-0.1754232959521005,3.9393819318882493
-[13:36:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[13:36:45] [Server thread/INFO]: CChatchawam lost connection: Timed out
-[13:36:45] [Server thread/INFO]: CChatchawam left the game
-[13:37:01] [User Authenticator #3/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
-[13:37:06] [Server thread/INFO]: CChatchawam[/172.30.99.150:50839] logged in with entity id 1156 at (68.52374214709268, 60.54428400393719, 372.30000001192093)
-[13:37:06] [Server thread/INFO]: CChatchawam joined the game
-[13:39:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
-[13:39:46] [Server thread/INFO]: CChatchawam has made the advancement [Monster Hunter]
-[13:39:50] [Server thread/WARN]: CChatchawam moved too quickly! -1.5994784618782205,8.0,-7.675107123026692
-[13:41:06] [Server thread/INFO]: CChatchawam has made the advancement [A Terrible Fortress]
-[13:42:30] [Server thread/INFO]: <Marypoppin888> [name:"Home", x:17, y:89, z:51, dim:minecraft:the_nether]
-[13:49:29] [Server thread/INFO]: CChatchawam has made the advancement [Stone Age]
-[13:53:03] [Server thread/WARN]: CChatchawam moved too quickly! -0.19823148348248765,10.0,-0.2742386566175128
-[13:53:40] [Server thread/WARN]: CChatchawam moved too quickly! 9.580559501847517,-2.766367993957516,-0.926092141353422
-[13:57:35] [Server thread/INFO]: CChatchawam lost connection: Disconnected
-[13:57:35] [Server thread/INFO]: CChatchawam left the game
-[13:58:01] [User Authenticator #4/INFO]: Disconnecting CChatchawam (/172.30.99.150:59249): Authentication servers are down. Please try again later, sorry!
-[13:58:01] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
-[13:58:01] [Server thread/INFO]: CChatchawam (/172.30.99.150:59249) lost connection: Authentication servers are down. Please try again later, sorry!
-[13:58:27] [User Authenticator #5/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
-[13:58:28] [Server thread/INFO]: CChatchawam[/172.30.99.150:59358] logged in with entity id 6835 at (136.66881746804236, 79.16610926093821, 355.77161957941894)
-[13:58:28] [Server thread/INFO]: CChatchawam joined the game
-[14:00:26] [Server thread/INFO]: <Marypoppin888> [name:"Green forrest", x:561, y:58, z:-255, dim:minecraft:the_nether]
-[14:01:00] [Server thread/WARN]: CChatchawam moved wrongly!
-[14:01:01] [Server thread/WARN]: CChatchawam moved wrongly!
-[14:01:08] [Server thread/WARN]: CChatchawam moved too quickly! 9.400351433128264,0.0,-5.276532377180416
-[14:01:16] [Server thread/WARN]: CChatchawam moved wrongly!
-[14:01:19] [Server thread/WARN]: CChatchawam moved wrongly!
-[14:01:24] [Server thread/INFO]: CChatchawam has completed the challenge [Hot Tourist Destinations]
-[14:02:15] [Server thread/INFO]: CChatchawam has made the advancement [Those Were the Days]
-[14:02:20] [Server thread/WARN]: CChatchawam moved too quickly! -10.008144269464651,0.0,4.0056781487450905
-[14:02:25] [Server thread/WARN]: CChatchawam moved wrongly!
-[14:02:29] [Server thread/WARN]: CChatchawam moved wrongly!
-[14:02:31] [Server thread/WARN]: CChatchawam moved too quickly! -8.599484069162258,-3.0,4.831292958244646
-[14:02:42] [Server thread/WARN]: CChatchawam moved too quickly! -9.724748174871678,0.0,4.645794447481279
-[14:02:54] [Server thread/WARN]: CChatchawam moved wrongly!
-[14:07:14] [User Authenticator #6/INFO]: UUID of player God_Mota is 26c114b7-75e0-41f9-a45a-1f4f9eb784f4
-[14:07:16] [Server thread/INFO]: God_Mota[/172.30.124.248:60421] logged in with entity id 10529 at (60.5, 63.0, 392.5)
-[14:07:16] [Server thread/INFO]: God_Mota joined the game
-[14:08:57] [Server thread/WARN]: God_Mota moved too quickly! 6.203052408551287,-0.17675927506424216,7.97579347552886
-[14:09:00] [Server thread/WARN]: CChatchawam moved too quickly! -6.3656690365943405,1.0244240882136921,7.796179178081786
-[14:09:14] [Server thread/INFO]: CChatchawam lost connection: Timed out
-[14:09:14] [Server thread/INFO]: CChatchawam left the game
-[14:09:26] [User Authenticator #7/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
-[14:09:27] [Server thread/INFO]: CChatchawam[/172.30.99.150:60787] logged in with entity id 11221 at (147.621812744602, 82.17675927506424, 390.513004319645)
-[14:09:27] [Server thread/INFO]: CChatchawam joined the game
-[14:09:27] [Server thread/INFO]: God_Mota lost connection: Timed out
-[14:09:27] [Server thread/INFO]: God_Mota left the game
-[14:09:52] [User Authenticator #8/INFO]: UUID of player God_Mota is 26c114b7-75e0-41f9-a45a-1f4f9eb784f4
-[14:09:56] [Server thread/INFO]: God_Mota[/172.30.124.248:60582] logged in with entity id 11399 at (151.839305264895, 83.0, 375.22273223305217)
-[14:09:56] [Server thread/INFO]: God_Mota joined the game
-[14:10:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=574, y=54, z=-301} class_2338{x=506, y=61, z=-266}
-[14:10:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=574, y=54, z=-301} class_2338{x=506, y=61, z=-266}
-[14:14:33] [Server thread/WARN]: CChatchawam moved wrongly!
-[14:14:49] [Server thread/WARN]: CChatchawam moved too quickly! -2.526223409246114,0.0,10.658113367029273
-[14:14:58] [Server thread/WARN]: CChatchawam moved wrongly!
-[14:15:01] [Server thread/WARN]: God_Mota moved too quickly! -2.6018829050414283,0.0,-9.671360488692187
-[14:15:04] [Server thread/WARN]: CChatchawam moved wrongly!
-[14:16:17] [Server thread/INFO]: <CChatchawam> [x:103, y:69, z:936, dim:minecraft:overworld]
-[14:16:44] [Server thread/WARN]: God_Mota moved too quickly! -1.0540517175082016,-0.07840000152587834,10.092803513008107
-[14:19:54] [Server thread/INFO]: God_Mota lost connection: Disconnected
-[14:19:54] [Server thread/INFO]: God_Mota left the game
-[14:20:48] [User Authenticator #9/INFO]: UUID of player God_Mota is 26c114b7-75e0-41f9-a45a-1f4f9eb784f4
-[14:20:50] [Server thread/INFO]: God_Mota[/172.30.124.248:61176] logged in with entity id 16681 at (99.13406683421286, 71.0, 931.4507455893722)
-[14:20:50] [Server thread/INFO]: God_Mota joined the game
-[14:21:33] [Server thread/WARN]: God_Mota moved too quickly! 1.2892906678378324,-12.222727470279239,0.6202312264667853
-[14:22:40] [Server thread/INFO]: CChatchawam has made the advancement [Acquire Hardware]
-[14:23:11] [Server thread/WARN]: God_Mota moved wrongly!
-[14:23:12] [Server thread/WARN]: God_Mota moved wrongly!
-[14:23:15] [Server thread/WARN]: God_Mota moved wrongly!
-[14:23:16] [Server thread/WARN]: God_Mota moved wrongly!
-[14:23:35] [Server thread/WARN]: God_Mota moved wrongly!
-[14:23:35] [Server thread/WARN]: God_Mota moved wrongly!
-[14:23:35] [Server thread/WARN]: God_Mota moved wrongly!
-[14:23:35] [Server thread/WARN]: God_Mota moved wrongly!
-[14:23:36] [Server thread/WARN]: God_Mota moved wrongly!
-[14:23:36] [Server thread/WARN]: God_Mota moved wrongly!
-[14:24:22] [Server thread/WARN]: God_Mota moved wrongly!
-[14:24:23] [Server thread/WARN]: God_Mota moved wrongly!
-[14:24:24] [Server thread/WARN]: God_Mota moved wrongly!
-[14:24:24] [Server thread/WARN]: God_Mota moved wrongly!
-[14:24:24] [Server thread/WARN]: God_Mota moved wrongly!
-[14:24:24] [Server thread/WARN]: God_Mota moved wrongly!
-[14:24:56] [Server thread/INFO]: CChatchawam lost connection: Timed out
-[14:24:56] [Server thread/INFO]: CChatchawam left the game
-[14:24:57] [Server thread/INFO]: God_Mota lost connection: Timed out
-[14:24:57] [Server thread/INFO]: God_Mota left the game
-[14:26:25] [User Authenticator #10/INFO]: UUID of player God_Mota is 26c114b7-75e0-41f9-a45a-1f4f9eb784f4
-[14:26:26] [Server thread/INFO]: God_Mota[/172.30.124.248:61381] logged in with entity id 18648 at (98.51887447984683, 84.0, 919.0478600212759)
-[14:26:26] [Server thread/INFO]: God_Mota joined the game
-[14:28:49] [Server thread/WARN]: Failed to update secure chat state for God_Mota: 'Chat disabled due to missing profile public key. Please try reconnecting.'
-[14:29:03] [Server thread/WARN]: Failed to update secure chat state for God_Mota: 'Chat disabled due to missing profile public key. Please try reconnecting.'
-[14:29:52] [Server thread/WARN]: Failed to update secure chat state for God_Mota: 'Chat disabled due to missing profile public key. Please try reconnecting.'
-[14:31:40] [User Authenticator #11/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
-[14:31:42] [Server thread/INFO]: CChatchawam[/172.30.99.150:64173] logged in with entity id 21522 at (95.61354389732932, 73.0, 915.7419564957606)
-[14:31:42] [Server thread/INFO]: CChatchawam joined the game
-[14:31:59] [Server thread/WARN]: CChatchawam moved too quickly! 0.08079407448869347,0.0,10.712641160740077
-[14:32:20] [Server thread/INFO]: <Marypoppin888> [name:"Dark oak", x:149, y:69, z:1888, dim:minecraft:overworld]
-[14:34:13] [Server thread/WARN]: CChatchawam moved wrongly!
-[14:38:03] [Server thread/WARN]: CChatchawam moved wrongly!
-[14:39:25] [Server thread/INFO]: Marypoppin888 has made the advancement [Eye Spy]
-[14:40:41] [Server thread/WARN]: God_Mota moved too quickly! 4.8699131912097755,9.0,0.5275144093334347
-[14:40:42] [Server thread/WARN]: God_Mota moved too quickly! 6.230950202395164,8.0,-5.016012102769764
-[14:40:47] [Server thread/WARN]: CChatchawam moved too quickly! 0.16772163515012295,-11.0,0.7304125815198859
-[14:41:46] [Server thread/INFO]: CChatchawam has made the advancement [Eye Spy]
-[14:41:54] [Server thread/INFO]: God_Mota has made the advancement [Eye Spy]
-[14:42:13] [Server thread/INFO]: CChatchawam has made the advancement [The End?]
-[14:42:15] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[14:42:15] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[14:42:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
-[14:42:16] [Server thread/INFO]: Marypoppin888 has made the advancement [The End?]
-[14:42:16] [Server thread/INFO]: God_Mota has made the advancement [The End?]
-[14:43:55] [Server thread/INFO]: God_Mota lost connection: Disconnected
-[14:43:55] [Server thread/INFO]: God_Mota left the game
-[14:44:17] [Server thread/WARN]: CChatchawam moved too quickly! -7.749882258807048,2.0,-6.613695354093267
-[14:44:56] [Server thread/WARN]: CChatchawam moved too quickly! 5.380515425020633,8.0,5.701367400984225
-[14:44:57] [Server thread/INFO]: Marypoppin888 was doomed to fall by Ender Dragon
-[14:45:29] [User Authenticator #12/INFO]: UUID of player God_Mota is 26c114b7-75e0-41f9-a45a-1f4f9eb784f4
-[14:45:30] [Server thread/INFO]: God_Mota[/172.30.124.248:61891] logged in with entity id 27241 at (36.30000001192093, 60.0, 26.351400902979965)
-[14:45:30] [Server thread/INFO]: God_Mota joined the game
-[14:45:40] [Server thread/WARN]: CChatchawam moved too quickly! 0.07052473302891826,-11.0,3.7165143451800926
-[14:46:33] [Server thread/WARN]: CChatchawam moved too quickly! 0.48990139089332274,4.0,-9.76228828714406
-[14:46:37] [Server thread/WARN]: God_Mota moved wrongly!
-[14:46:38] [Server thread/WARN]: God_Mota moved wrongly!
-[14:46:56] [Server thread/WARN]: God_Mota moved too quickly! 3.8925672852124222,0.0,9.97073269401487
-[14:46:58] [Server thread/WARN]: God_Mota moved too quickly! -6.485348268608135,-8.0,-2.228045021744066
-[14:47:01] [Server thread/INFO]: God_Mota has made the advancement [Into Fire]
-[14:47:01] [Server thread/WARN]: CChatchawam moved too quickly! 6.331476636375243,7.0,-6.137504260783373
-[14:49:06] [Server thread/INFO]: <CChatchawam> ดิสไม่มีเสียง
-[14:49:07] [Server thread/WARN]: CChatchawam moved too quickly! 2.8968509671634735,8.000000000000007,7.284756358784193
-[14:50:38] [Server thread/INFO]: God_Mota lost connection: Disconnected
-[14:50:38] [Server thread/INFO]: God_Mota left the game
-[14:51:21] [User Authenticator #13/INFO]: UUID of player God_Mota is 26c114b7-75e0-41f9-a45a-1f4f9eb784f4
-[14:51:22] [Server thread/INFO]: God_Mota[/172.30.124.248:62076] logged in with entity id 31061 at (36.45071926201919, 63.0, 11.999070080162024)
-[14:51:22] [Server thread/INFO]: God_Mota joined the game
-[14:53:16] [Server thread/WARN]: God_Mota moved wrongly!
-[14:53:31] [Server thread/WARN]: God_Mota moved wrongly!
-[14:54:12] [Server thread/WARN]: CChatchawam moved wrongly!
-[14:55:33] [Server thread/WARN]: God_Mota moved wrongly!
-[14:55:34] [Server thread/WARN]: God_Mota moved wrongly!
-[14:55:51] [Server thread/WARN]: God_Mota moved wrongly!
-[14:55:51] [Server thread/WARN]: God_Mota moved wrongly!
-[14:55:51] [Server thread/WARN]: God_Mota moved wrongly!
-[14:55:52] [Server thread/WARN]: God_Mota moved wrongly!
-[14:55:52] [Server thread/WARN]: God_Mota moved wrongly!
-[14:56:03] [Server thread/WARN]: God_Mota moved too quickly! -2.3022220567909457,8.0,7.468469504039518
-[14:56:07] [Server thread/WARN]: God_Mota moved wrongly!
-[14:56:07] [Server thread/WARN]: God_Mota moved wrongly!
-[14:56:10] [Server thread/WARN]: God_Mota moved wrongly!
-[14:56:17] [Server thread/WARN]: God_Mota moved wrongly!
-[14:56:20] [Server thread/WARN]: God_Mota moved wrongly!
-[14:57:25] [Server thread/INFO]: Marypoppin888 has made the advancement [Free the End]
-[14:57:55] [Server thread/WARN]: God_Mota moved wrongly!
-[14:57:56] [Server thread/WARN]: God_Mota moved wrongly!
-[14:58:25] [Server thread/INFO]: Marypoppin888 has reached the goal [The Next Generation]
-[15:03:24] [Server thread/INFO]: God_Mota has made the advancement [Remote Getaway]
-[15:03:55] [Server thread/INFO]: CChatchawam has made the advancement [Remote Getaway]
-[15:04:35] [Server thread/WARN]: CChatchawam moved too quickly! -10.906874717813139,0.0,-16.166800489341313
-[15:04:36] [Server thread/WARN]: CChatchawam moved too quickly! 8.653638962155469,0.0,17.466154931007623
-[15:04:38] [Server thread/WARN]: CChatchawam moved too quickly! 1.2079037045990617,0.0,19.462883754122686
-[15:04:39] [Server thread/WARN]: CChatchawam moved too quickly! 6.778043118886103,0.0,18.271629935022702
-[15:04:59] [Server thread/WARN]: CChatchawam moved too quickly! -10.533538022012863,0.0,-16.528901994061016
-[15:05:40] [Server thread/WARN]: God_Mota moved too quickly! 0.17381677369814952,0.0,-19.59921356438076
-[15:05:42] [Server thread/WARN]: God_Mota moved too quickly! 0.24991704935462167,0.0,-19.59840688702343
-[15:05:42] [Server thread/WARN]: God_Mota moved too quickly! 0.5073075102658322,0.0,-19.593433642259697
-[15:05:42] [Server thread/WARN]: God_Mota moved too quickly! 0.5073075102658322,0.0,-19.593433642259697
-[15:05:43] [Server thread/WARN]: God_Mota moved too quickly! 0.5073075102658322,0.0,-19.593433642259697
-[15:05:43] [Server thread/WARN]: God_Mota moved too quickly! 0.2536537551329161,5.0,-9.796716821129849
-[15:05:43] [Server thread/WARN]: God_Mota moved too quickly! 0.2536537551329161,5.0,-9.796716821129849
-[15:05:43] [Server thread/WARN]: God_Mota moved too quickly! 0.5073075102658322,0.0,-19.593433642259697
-[15:05:43] [Server thread/WARN]: God_Mota moved too quickly! 0.45470780944685885,0.0,-19.5947257279322
-[15:05:44] [Server thread/WARN]: God_Mota moved too quickly! 0.2790125793133029,5.0,-9.79602755300425
-[15:05:45] [Server thread/WARN]: CChatchawam moved too quickly! -2.61379089078207,0.0,-19.377376122910164
-[15:05:45] [Server thread/WARN]: CChatchawam moved too quickly! -0.44621575598142726,0.0,-19.5932414649601
-[15:05:45] [Server thread/WARN]: God_Mota moved too quickly! -0.7758764909713136,0.0,-19.58463788002632
-[15:05:45] [Server thread/WARN]: CChatchawam moved too quickly! 0.5275628296891455,0.0,-19.577753376527653
-[15:05:46] [Server thread/WARN]: CChatchawam moved too quickly! -1.1399444101588188,0.0,19.517764852830624
-[15:05:46] [Server thread/WARN]: God_Mota moved too quickly! -0.46973662918105674,0.0,-19.59437057960986
-[15:05:48] [Server thread/WARN]: CChatchawam moved too quickly! 8.820773904338694,0.0,-17.502969867900447
-[15:05:49] [Server thread/WARN]: God_Mota moved too quickly! -4.006393906963467,0.0,-19.18326303147819
-[15:05:50] [Server thread/WARN]: CChatchawam moved too quickly! 5.4345982059575135,0.0,-18.831423196139212
-[15:05:50] [Server thread/WARN]: God_Mota moved too quickly! -1.6984239819399818,0.0,-19.525665734751556
-[15:05:50] [Server thread/WARN]: God_Mota moved too quickly! -1.8014095478186505,0.0,-19.516976283364784
-[15:05:50] [Server thread/WARN]: God_Mota moved too quickly! -1.6741255281360736,0.0,-19.528220699820622
-[15:05:50] [Server thread/WARN]: God_Mota moved too quickly! -1.3415814034978553,0.0,-19.55396369606069
-[15:05:51] [Server thread/WARN]: God_Mota moved too quickly! -1.2130884265071131,0.0,-19.56159237548468
-[15:05:51] [Server thread/WARN]: CChatchawam moved too quickly! 12.327671410164953,0.0,-15.23753946873694
-[15:05:51] [Server thread/WARN]: God_Mota moved too quickly! -1.3931361767590715,0.0,-19.550426815975698
-[15:05:51] [Server thread/WARN]: God_Mota moved too quickly! -0.6498977454207306,0.0,-19.584372102910038
-[15:05:51] [Server thread/WARN]: CChatchawam moved too quickly! 16.46088408082619,0.0,-10.639484374172525
-[15:05:51] [Server thread/WARN]: God_Mota moved too quickly! -0.9823713642820167,0.0,-19.575366639611502
-[15:05:51] [Server thread/WARN]: CChatchawam moved too quickly! 10.795802207300653,0.0,-16.35830345997124
-[15:05:51] [Server thread/WARN]: God_Mota moved too quickly! -1.0593100061057044,0.0,-19.571336173453346
-[15:05:52] [Server thread/WARN]: God_Mota moved too quickly! -0.41803815191252625,0.0,-19.593862974524427
-[15:05:52] [Server thread/WARN]: CChatchawam moved too quickly! -15.079962845091188,0.0,12.519224279398259
-[15:05:52] [Server thread/WARN]: CChatchawam moved too quickly! -15.177198133219463,0.0,12.402124050240218
-[15:05:53] [Server thread/WARN]: CChatchawam moved too quickly! 12.324535448807183,0.0,15.699124975572431
-[15:05:53] [Server thread/WARN]: CChatchawam moved too quickly! 13.850085727786904,0.0,14.39030137806867
-[15:05:54] [Server thread/WARN]: CChatchawam moved too quickly! 8.745178130600948,0.0,17.540024455031926
-[15:05:55] [Server thread/WARN]: CChatchawam moved too quickly! 8.190086851973206,0.0,17.805730307943577
-[15:05:55] [Server thread/WARN]: CChatchawam moved too quickly! 18.46989098633418,0.0,7.668854476706201
-[15:05:55] [Server thread/WARN]: CChatchawam moved too quickly! 18.37835814661213,0.0,7.88517486256228
-[15:05:56] [Server thread/WARN]: CChatchawam moved too quickly! 11.112999263670247,0.0,16.51840381336649
-[15:05:56] [Server thread/WARN]: CChatchawam moved too quickly! 9.65870118237757,0.0,17.493077502100732
-[15:05:56] [Server thread/WARN]: CChatchawam moved too quickly! 4.6650085438286055,0.0,19.382851152136595
-[15:05:57] [Server thread/WARN]: CChatchawam moved too quickly! -18.308376752033553,0.0,6.983790527607312
-[15:05:57] [Server thread/WARN]: CChatchawam moved too quickly! -19.418983968549526,0.0,-0.8028806872466703
-[15:05:58] [Server thread/WARN]: CChatchawam moved too quickly! -14.761967908913277,0.0,-13.488136574334703
-[15:05:58] [Server thread/WARN]: CChatchawam moved too quickly! -11.759088475799672,0.0,11.011723476047791
-[15:05:58] [Server thread/WARN]: CChatchawam moved too quickly! -12.269833949745475,0.0,15.794022766996022
-[15:05:58] [Server thread/WARN]: CChatchawam moved too quickly! -15.812826161990643,0.0,12.245591925418921
-[15:05:59] [Server thread/WARN]: CChatchawam moved too quickly! -17.694586431719017,0.0,9.322066927622586
-[15:05:59] [Server thread/WARN]: CChatchawam moved too quickly! -0.5279706588327144,0.0,19.592888069014407
-[15:06:00] [Server thread/WARN]: CChatchawam moved too quickly! -0.8622340474454404,0.0,19.58087377510992
-[15:06:00] [Server thread/WARN]: CChatchawam moved too quickly! -1.400557090033601,0.0,19.548823391395217
-[15:06:00] [Server thread/WARN]: CChatchawam moved too quickly! 1.3247120042180427,0.0,-19.555165826401662
-[15:06:01] [Server thread/WARN]: CChatchawam moved too quickly! 1.6310710226055676,0.0,-19.53199765549857
-[15:06:01] [Server thread/WARN]: CChatchawam moved too quickly! 1.9126942962141698,0.0,-19.506181643567402
-[15:06:01] [Server thread/WARN]: CChatchawam moved too quickly! -1.46883895499235,0.0,-19.52970145803954
-[15:06:01] [Server thread/WARN]: CChatchawam moved too quickly! -3.394952257487489,0.0,-19.24234265585028
-[15:06:02] [Server thread/WARN]: God_Mota moved too quickly! 0.10967413176962282,0.0,19.5542960634873
-[15:06:02] [Server thread/WARN]: CChatchawam moved too quickly! -9.337434104022861,0.0,-17.22799394282515
-[15:06:02] [Server thread/WARN]: CChatchawam moved too quickly! -9.780767857654098,0.0,-16.97208737980759
-[15:06:02] [Server thread/WARN]: God_Mota moved too quickly! -1.299391732322647,0.0,19.556729530445864
-[15:06:02] [Server thread/WARN]: God_Mota moved too quickly! -1.2478340384338367,0.0,19.560222016990792
-[15:06:03] [Server thread/WARN]: God_Mota moved too quickly! -1.120284168619321,0.0,19.56788983282513
-[15:06:03] [Server thread/WARN]: CChatchawam moved too quickly! -15.42079483481416,0.0,-12.045214589424859
-[15:06:03] [Server thread/WARN]: God_Mota moved too quickly! -1.4268286833705588,0.0,19.5473893632186
-[15:06:03] [Server thread/WARN]: CChatchawam moved too quickly! -16.505264186231727,0.0,-10.46182230210934
-[15:06:03] [Server thread/WARN]: God_Mota moved too quickly! -1.2731508055760514,0.0,19.558606909899936
-[15:06:03] [Server thread/WARN]: CChatchawam moved too quickly! -16.22926954623182,0.0,-10.985283183278398
-[15:06:03] [Server thread/WARN]: God_Mota moved too quickly! -1.2731508055760514,0.0,19.558606909899936
-[15:06:03] [Server thread/WARN]: CChatchawam moved too quickly! -17.03464313520982,0.0,-9.674830559440124
-[15:06:03] [Server thread/WARN]: God_Mota moved too quickly! -1.0433604950123367,0.0,19.572193669731405
-[15:06:03] [Server thread/WARN]: CChatchawam moved too quickly! -19.426436683321356,0.0,4.755373283644076
-[15:06:04] [Server thread/WARN]: CChatchawam moved too quickly! -19.426436683321356,0.0,4.755373283644076
-[15:06:04] [Server thread/WARN]: CChatchawam moved too quickly! -19.426436683321356,0.0,4.755373283644076
-[15:06:04] [Server thread/WARN]: God_Mota moved too quickly! -0.5561467934608118,0.0,19.59210884555705
-[15:06:05] [Server thread/WARN]: God_Mota moved too quickly! -0.5561467934608118,0.0,19.59210884555705
-[15:06:05] [Server thread/WARN]: God_Mota moved too quickly! -0.5044879910934696,0.0,19.59343889938941
-[15:06:05] [Server thread/WARN]: God_Mota moved too quickly! -0.5561467934608118,0.0,19.59210884555705
-[15:06:05] [Server thread/WARN]: God_Mota moved too quickly! -0.5561467934608118,0.0,19.59210884555705
-[15:06:05] [Server thread/WARN]: God_Mota moved too quickly! -0.5561467934608118,0.0,19.59210884555705
-[15:06:05] [Server thread/WARN]: CChatchawam moved too quickly! -16.595223606756235,0.0,-10.428737724143502
-[15:06:06] [Server thread/WARN]: CChatchawam moved too quickly! -16.595223606756235,0.0,-10.428737724143502
-[15:06:06] [Server thread/WARN]: God_Mota moved too quickly! -0.5561467934608118,0.0,19.59210884555705
-[15:06:06] [Server thread/WARN]: God_Mota moved too quickly! -0.201052429714764,5.0,9.797937643487785
-[15:06:06] [Server thread/WARN]: CChatchawam moved too quickly! -19.573722217190543,0.0,4.09087848358854
-[15:06:07] [Server thread/WARN]: CChatchawam moved too quickly! -14.100307810555819,0.0,-13.614012792431822
-[15:06:07] [Server thread/WARN]: God_Mota moved too quickly! -0.5054289990686129,0.0,19.593482708804004
-[15:06:07] [Server thread/WARN]: God_Mota moved too quickly! -0.5054289990686129,0.0,19.593482708804004
-[15:06:07] [Server thread/WARN]: God_Mota moved too quickly! -0.5054289990686129,0.0,19.593482708804004
-[15:06:07] [Server thread/WARN]: CChatchawam moved too quickly! 6.3102470612817285,0.0,18.556262103270683
-[15:06:08] [Server thread/WARN]: God_Mota moved too quickly! -0.5054289990686129,0.0,19.593482708804004
-[15:06:08] [Server thread/WARN]: CChatchawam moved too quickly! 5.008085515218568,0.0,18.949382673952186
-[15:06:08] [Server thread/WARN]: CChatchawam moved too quickly! -2.525541715663098,0.0,18.117797401728808
-[15:06:08] [Server thread/WARN]: CChatchawam moved too quickly! -18.949382673952186,0.0,5.008085515218681
-[15:06:09] [Server thread/WARN]: CChatchawam moved too quickly! -8.643106064752708,5.0,-5.0295844732723936
-[15:06:09] [Server thread/WARN]: CChatchawam moved too quickly! -8.643106064752708,5.0,-5.0295844732723936
-[15:06:09] [Server thread/WARN]: CChatchawam moved too quickly! -3.202639075860958,0.0,-19.33657495462785
-[15:06:09] [Server thread/WARN]: CChatchawam moved too quickly! -16.26288854426909,0.0,-11.641240045985796
-[15:06:10] [Server thread/WARN]: God_Mota moved too quickly! -0.5054289990686129,0.0,19.593482708804004
-[15:06:10] [Server thread/WARN]: CChatchawam moved too quickly! -13.190913267702271,0.0,-13.336154350195102
-[15:06:10] [Server thread/WARN]: CChatchawam moved too quickly! -9.925234952026187,0.0,16.901003975790445
-[15:06:10] [Server thread/WARN]: CChatchawam moved too quickly! 17.31392231306586,0.0,9.186300969100557
-[15:06:11] [Server thread/WARN]: CChatchawam moved too quickly! 17.190751851398147,0.0,9.411285386864847
-[15:06:11] [Server thread/WARN]: CChatchawam moved too quickly! 9.657947579241721,0.0,-17.054379568623062
-[15:06:11] [Server thread/WARN]: God_Mota moved too quickly! -4.785956010983057,0.0,18.983013701351638
-[15:06:11] [Server thread/WARN]: God_Mota moved too quickly! -4.417137398858699,0.0,19.095782055578184
-[15:06:12] [Server thread/WARN]: God_Mota moved too quickly! 0.160662955844316,0.0,19.5992585420463
-[15:06:13] [Server thread/WARN]: God_Mota moved too quickly! 0.41618954976786426,0.0,19.59527363767961
-[15:06:14] [Server thread/WARN]: CChatchawam moved too quickly! -4.134935441782886,0.0,17.86026636748943
-[15:06:14] [Server thread/WARN]: God_Mota moved too quickly! 0.3138007046261464,0.0,19.597458267162438
-[15:06:14] [Server thread/WARN]: CChatchawam moved too quickly! -19.297283750841245,0.0,3.431359414484632
-[15:06:14] [Server thread/WARN]: CChatchawam moved too quickly! -16.443909469357635,0.0,-11.384105284234465
-[15:06:15] [Server thread/WARN]: God_Mota moved too quickly! 0.4707010569392196,0.0,29.396187400743656
-[15:06:15] [Server thread/WARN]: CChatchawam moved too quickly! -17.7161357649193,0.0,1.982614494180325
-[15:06:15] [Server thread/WARN]: CChatchawam moved too quickly! -18.245902192125726,0.0,8.190625085572492
-[15:06:16] [Server thread/WARN]: CChatchawam moved too quickly! -13.22230288490573,0.0,14.46824205662756
-[15:06:16] [Server thread/WARN]: CChatchawam moved too quickly! -16.54062889820466,0.0,10.416564256031847
-[15:06:16] [Server thread/WARN]: God_Mota moved too quickly! 3.981204515694685,0.0,19.190953628208263
-[15:06:18] [Server thread/WARN]: CChatchawam moved too quickly! -18.390132129486858,0.0,-6.775665725020417
-[15:06:18] [Server thread/WARN]: CChatchawam moved too quickly! -11.59828155453971,0.0,9.649858685355412
-[15:06:19] [Server thread/WARN]: CChatchawam moved too quickly! -15.48890750030688,5.0,9.73276381006508
-[15:06:19] [Server thread/WARN]: CChatchawam moved too quickly! -19.59217193111442,5.0,-0.5533287528560322
-[15:06:19] [Server thread/WARN]: CChatchawam moved too quickly! -9.771188783084881,5.0,-0.7509138864395482
-[15:06:19] [Server thread/WARN]: CChatchawam moved too quickly! -9.070826945418275,5.0,-3.7094617254288096
-[15:06:20] [Server thread/WARN]: CChatchawam moved too quickly! -19.592888069014407,0.0,-0.5279706588326007
-[15:06:20] [Server thread/WARN]: CChatchawam moved too quickly! -1.904512522928826,5.0,-9.613159462153362
-[15:06:20] [Server thread/WARN]: CChatchawam moved too quickly! -2.825003380921487,5.0,-9.38399475003257
-[15:06:20] [Server thread/WARN]: CChatchawam moved too quickly! -8.336964924471033,0.0,-17.33799879916819
-[15:06:20] [Server thread/WARN]: God_Mota moved too quickly! 6.477324048581352,0.0,-28.677592084653043
-[15:06:21] [Server thread/WARN]: CChatchawam moved too quickly! 13.721364258554274,0.0,-11.920129072206464
-[15:06:21] [Server thread/WARN]: CChatchawam moved too quickly! 8.613358230145309,0.0,-17.602807435265504
-[15:06:21] [Server thread/WARN]: CChatchawam moved too quickly! 8.845089589845657,0.0,-17.490676361992428
-[15:06:22] [Server thread/WARN]: CChatchawam moved too quickly! 8.867727666830092,0.0,-17.47922866985209
-[15:06:22] [Server thread/WARN]: CChatchawam moved too quickly! 8.867727666830092,0.0,-17.47922866985209
-[15:06:22] [Server thread/WARN]: CChatchawam moved too quickly! 19.010317476225396,0.0,-6.213521058080005
-[15:06:22] [Server thread/WARN]: God_Mota moved too quickly! 2.1650740918196902,0.0,-19.20374364081681
-[15:06:23] [Server thread/WARN]: CChatchawam moved too quickly! 19.010317476225396,0.0,-6.213521058080005
-[15:06:23] [Server thread/WARN]: CChatchawam moved too quickly! 19.484902791575678,0.0,-2.470588411183826
-[15:06:23] [Server thread/WARN]: CChatchawam moved too quickly! 19.621093589042857,0.0,-3.83154892470111
-[15:06:23] [Server thread/WARN]: CChatchawam moved too quickly! 11.409943611961353,0.0,-15.936536789165075
-[15:06:23] [Server thread/WARN]: God_Mota moved too quickly! -24.729575245080184,0.0,15.825286577191491
-[15:06:24] [Server thread/WARN]: CChatchawam moved too quickly! 11.678990078779918,0.0,-15.739409025871737
-[15:06:24] [Server thread/WARN]: God_Mota moved too quickly! -27.843949740642415,0.0,9.43785638104373
-[15:06:24] [Server thread/WARN]: CChatchawam moved too quickly! 11.78109580557873,0.0,-15.664156717945843
-[15:06:24] [Server thread/WARN]: CChatchawam moved too quickly! 11.924512642247578,0.0,-15.554731898253976
-[15:06:25] [Server thread/WARN]: CChatchawam moved too quickly! 12.025881202627318,0.0,-15.47693806014604
-[15:06:25] [Server thread/WARN]: God_Mota moved too quickly! -27.835515552112327,0.0,9.462775760286377
-[15:06:25] [Server thread/WARN]: CChatchawam moved too quickly! 12.0259215072889,0.0,-15.476990047318395
-[15:06:25] [Server thread/WARN]: CChatchawam moved too quickly! 12.0259215072889,0.0,-15.476990047318395
-[15:06:25] [Server thread/WARN]: God_Mota moved too quickly! -18.557010368074884,0.0,6.308517173524251
-[15:06:25] [Server thread/WARN]: CChatchawam moved too quickly! 13.32318486871884,0.0,-14.350435035577675
-[15:06:26] [Server thread/WARN]: God_Mota moved too quickly! -19.480041441966875,0.0,2.0035116876188113
-[15:06:26] [Server thread/WARN]: CChatchawam moved too quickly! 14.210123410227311,0.0,-13.497962236851436
-[15:06:27] [Server thread/WARN]: CChatchawam moved too quickly! 19.993088417495755,0.0,0.4879719973741885
-[15:06:27] [Server thread/WARN]: CChatchawam moved too quickly! 19.074389042161215,0.0,-4.508625475895769
-[15:06:28] [Server thread/WARN]: CChatchawam moved too quickly! 19.074389042161215,0.0,-4.508625475895769
-[15:06:28] [Server thread/WARN]: God_Mota moved too quickly! -29.20077930301119,0.0,3.4160245129726263
-[15:06:28] [Server thread/WARN]: God_Mota moved too quickly! -29.203697594159905,0.0,3.3917706717561487
-[15:06:37] [Server thread/WARN]: God_Mota moved too quickly! 13.383772705209935,0.0,14.317747370909728
-[15:06:37] [Server thread/WARN]: God_Mota moved too quickly! 18.14946715392807,0.0,7.39804680440966
-[15:06:38] [Server thread/WARN]: God_Mota moved too quickly! 13.792522036242786,0.0,26.640404649468564
-[15:06:38] [Server thread/WARN]: God_Mota moved too quickly! 18.650422554608213,0.0,6.024907581050229
-[15:06:39] [Server thread/WARN]: God_Mota moved too quickly! 6.299181597627751,0.0,27.09698858261197
-[15:06:39] [Server thread/WARN]: God_Mota moved too quickly! 29.09268161652389,0.0,3.611308264982995
-[15:06:40] [Server thread/WARN]: God_Mota moved too quickly! 19.683275946441995,0.0,19.659886218110614
-[15:06:41] [Server thread/WARN]: God_Mota moved wrongly!
-[15:06:42] [Server thread/WARN]: God_Mota moved too quickly! 0.5580251586266058,0.0,-19.5920551060085
-[15:06:42] [Server thread/WARN]: God_Mota moved too quickly! 0.5580251586266058,10.0,-19.5920551060085
-[15:06:43] [Server thread/WARN]: God_Mota moved too quickly! 0.8370377379399088,0.0,-29.388082659012753
-[15:06:44] [Server thread/WARN]: God_Mota moved too quickly! -0.2658596787190959,0.0,-29.388301706086395
-[15:06:45] [Server thread/WARN]: God_Mota moved too quickly! -1.9547944866598073,0.0,-19.50227618027293
-[15:06:51] [Server thread/WARN]: CChatchawam moved too quickly! -12.536621290063295,0.0,-14.939916412731236
-[15:06:51] [Server thread/WARN]: CChatchawam moved too quickly! -2.643921984036055,0.0,-19.411077245373235
-[15:06:51] [Server thread/WARN]: CChatchawam moved too quickly! -1.0095221258671643,0.0,-19.554568265984244
-[15:06:51] [Server thread/WARN]: CChatchawam moved too quickly! -2.008073525470337,0.0,-19.496846149344265
-[15:06:52] [Server thread/WARN]: CChatchawam moved too quickly! 5.647569359994051,0.0,-17.399364940078385
-[15:06:52] [Server thread/WARN]: CChatchawam moved too quickly! -1.6254545826172944,0.0,-19.532483647939898
-[15:06:52] [Server thread/WARN]: CChatchawam moved too quickly! -1.5739455171788563,0.0,-19.53663327570621
-[15:06:53] [Server thread/WARN]: CChatchawam moved too quickly! -1.6254545826172944,0.0,-19.532483647939898
-[15:06:55] [Server thread/WARN]: CChatchawam moved too quickly! -19.45926876986306,0.0,-2.343271551439102
-[15:06:57] [Server thread/WARN]: CChatchawam moved too quickly! 0.0,15.0,0.0
-[15:06:58] [Server thread/WARN]: CChatchawam moved too quickly! -25.598564193172137,0.0,14.457134033482816
-[15:06:59] [Server thread/WARN]: God_Mota moved too quickly! -18.0718754232538,0.0,-7.587313406317662
-[15:07:02] [Server thread/WARN]: God_Mota moved too quickly! -16.96511350510292,0.0,-9.814702338266443
-[15:07:03] [Server thread/WARN]: God_Mota moved too quickly! 0.0,15.0,0.0
-[15:07:06] [Server thread/INFO]: CChatchawam has made the advancement [The City at the End of the Game]
-[15:07:07] [Server thread/INFO]: God_Mota has made the advancement [The City at the End of the Game]
-[15:07:37] [Server thread/WARN]: CChatchawam moved too quickly! -19.36714341187269,0.0,2.9725467723983456
-[15:07:40] [Server thread/WARN]: CChatchawam moved too quickly! 11.74050842724057,0.0,-15.694600172327227
-[15:07:41] [Server thread/WARN]: CChatchawam moved too quickly! -2.0323459856881527,0.0,-19.494078562582445
-[15:07:41] [Server thread/WARN]: CChatchawam moved too quickly! -19.419967051816798,0.0,-1.799027826167503
-[15:07:42] [Server thread/WARN]: CChatchawam moved too quickly! 17.771785021008952,0.0,-8.260974281874951
-[15:07:51] [Server thread/WARN]: God_Mota moved too quickly! -6.2594836320824925,0.0,-18.57332441000699
-[15:08:10] [Server thread/INFO]: God_Mota has reached the goal [Sky's the Limit]
-[15:08:38] [Server thread/INFO]: CChatchawam has reached the goal [Sky's the Limit]
-[15:08:48] [Server thread/WARN]: God_Mota moved wrongly!
-[15:08:50] [Server thread/WARN]: God_Mota moved too quickly! 1.3328548601399461,5.0,9.708811185969353
-[15:08:50] [Server thread/WARN]: God_Mota moved too quickly! 1.0530921723762958,5.0,9.743153094138961
-[15:08:51] [Server thread/WARN]: God_Mota moved too quickly! 0.7977451286010933,5.0,9.767400729021801
-[15:08:53] [Server thread/WARN]: God_Mota moved too quickly! -19.805969475630434,0.0,2.378278805043692
-[15:08:53] [Server thread/WARN]: God_Mota moved wrongly!
-[15:09:00] [Server thread/WARN]: God_Mota moved too quickly! 18.149759216693155,0.0,7.398891157863318
-[15:09:02] [Server thread/WARN]: God_Mota moved too quickly! 6.195084376507111,0.0,-18.59404801556616
-[15:09:04] [Server thread/WARN]: God_Mota moved too quickly! 19.42231289994595,0.0,-2.6151124747941594
-[15:11:37] [Server thread/WARN]: CChatchawam moved too quickly! -15.768106181752103,-2.25,-2.208756249571252
-[15:11:43] [Server thread/WARN]: CChatchawam moved too quickly! -10.1643443510429,0.0,-3.179711636324555
-[15:11:50] [Server thread/WARN]: CChatchawam moved too quickly! 5.485043977411749,0.0,9.756418971189987
-[15:12:14] [Server thread/WARN]: CChatchawam moved too quickly! -21.48355838464539,0.0,-5.712672864736078
-[15:12:16] [Server thread/WARN]: CChatchawam moved too quickly! 15.740092086212883,0.0,-16.200006923813817
-[15:14:18] [Server thread/WARN]: God_Mota moved too quickly! -3.37454109713849,0.0,-23.57124251383084
-[15:14:31] [Server thread/WARN]: God_Mota moved too quickly! 5.2724149866231755,0.0,-23.200676040478356
-[15:14:34] [Server thread/WARN]: God_Mota moved too quickly! -3.5053707806490593,0.0,-23.55347864521036
-[15:14:38] [Server thread/WARN]: God_Mota moved too quickly! 3.9812759256187746,0.0,23.478844090328494
-[15:14:38] [Server thread/WARN]: God_Mota moved too quickly! 9.256644301204744,0.0,20.34251306403712
-[15:14:39] [Server thread/WARN]: God_Mota moved too quickly! 4.896406614845489,0.0,23.304720373827877
-[15:14:40] [Server thread/WARN]: CChatchawam moved too quickly! -18.463872685285168,6.75,7.346681311720353
-[15:14:43] [Server thread/WARN]: God_Mota moved too quickly! 4.805874439641741,0.0,23.32354620899696
-[15:14:43] [Server thread/WARN]: God_Mota moved too quickly! 5.190737007797196,0.0,23.236405099512467
-[15:14:44] [Server thread/WARN]: God_Mota moved too quickly! 4.9589510981101625,0.0,23.291485654146527
-[15:14:45] [Server thread/WARN]: CChatchawam moved too quickly! 6.085939505936096,0.0,21.804011427061027
-[15:14:45] [Server thread/WARN]: God_Mota moved too quickly! 5.302772053918943,0.0,23.2143746755969
-[15:14:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[15:14:48] [Server thread/WARN]: God_Mota moved too quickly! 5.504639498667643,0.0,23.168537890390326
-[15:14:49] [Server thread/WARN]: CChatchawam moved too quickly! 14.674055264801396,-4.5,6.713295819834116
-[15:14:52] [Server thread/WARN]: God_Mota moved too quickly! 5.262220852946058,0.0,23.22481951523241
-[15:14:58] [Server thread/WARN]: God_Mota moved too quickly! 3.044277514079493,0.0,11.508139262533405
-[15:14:58] [Server thread/WARN]: God_Mota moved too quickly! 2.9341191845176198,0.0,11.539545698980874
-[15:15:01] [Server thread/WARN]: God_Mota moved too quickly! 2.9639812273080075,1.0499999999999972,11.531909191915474
-[15:15:03] [Server thread/WARN]: God_Mota moved too quickly! 3.104785595460015,0.0,11.494296555766596
-[15:15:03] [Server thread/WARN]: God_Mota moved too quickly! 3.1449314914226747,0.0,11.483864490956194
-[15:15:04] [Server thread/WARN]: God_Mota moved too quickly! 3.1449314914226676,0.0,11.483864490956194
-[15:15:05] [Server thread/WARN]: God_Mota moved too quickly! 3.1449314914226676,0.0,11.483864490956194
-[15:15:06] [Server thread/WARN]: God_Mota moved too quickly! 2.963981227308011,0.0,11.531909191915474
-[15:15:08] [Server thread/WARN]: God_Mota moved too quickly! 2.904237447203883,0.0,11.547105557091527
-[15:15:09] [Server thread/WARN]: God_Mota moved too quickly! 2.904237447203883,0.0,11.547105557091527
-[15:15:10] [Server thread/WARN]: God_Mota moved too quickly! 2.904237447203883,0.0,11.547105557091527
-[15:15:11] [Server thread/WARN]: God_Mota moved too quickly! 2.904237447203883,0.0,11.547105557091527
-[15:15:14] [Server thread/WARN]: God_Mota moved too quickly! 2.904237447203883,0.0,11.547105557091527
-[15:15:15] [Server thread/WARN]: God_Mota moved too quickly! 3.054550662420752,0.0,11.50824240742486
-[15:15:16] [Server thread/WARN]: God_Mota moved too quickly! 3.054550662420752,0.0,11.50824240742486
-[15:15:16] [Server thread/WARN]: God_Mota moved too quickly! 3.07476481362869,0.0,11.5028183109564
-[15:15:17] [Server thread/WARN]: God_Mota moved too quickly! 3.3254467608853133,0.0,11.432796177952014
-[15:15:17] [Server thread/WARN]: God_Mota moved too quickly! 4.995477519197436,0.0,10.801808490269309
-[15:15:19] [Server thread/WARN]: God_Mota moved too quickly! 5.739362376325289,0.0,10.431917899837686
-[15:15:27] [Server thread/WARN]: God_Mota moved too quickly! -3.0669383993124413,0.0,11.504778300455627
-[15:15:33] [Server thread/WARN]: God_Mota moved too quickly! -10.797716287691188,0.0,-5.01854329544166
-[15:15:33] [Server thread/WARN]: God_Mota moved too quickly! -7.862302587477664,0.0,-8.429251255545452
-[15:15:34] [Server thread/WARN]: God_Mota moved too quickly! 1.3551794113303117,0.0,-11.500270679463348
-[15:16:09] [Server thread/WARN]: God_Mota moved too quickly! 11.47653978427195,0.0,3.1072386577552606
-[15:16:11] [Server thread/WARN]: God_Mota moved too quickly! -2.6778879060983343,0.0,-15.590535742356451
-[15:16:22] [Server thread/WARN]: God_Mota moved too quickly! -23.706931747045545,0.0,2.168632717712967
-[15:16:24] [Server thread/WARN]: God_Mota moved too quickly! 20.0112477011466,0.0,-12.849156980875875
-[15:16:26] [Server thread/WARN]: CChatchawam moved too quickly! -9.491603075130968,0.0,-6.103859956886026
-[15:18:22] [Server thread/INFO]: CChatchawam lost connection: Disconnected
-[15:18:22] [Server thread/INFO]: CChatchawam left the game
-[15:18:34] [Server thread/INFO]: God_Mota lost connection: Disconnected
-[15:18:34] [Server thread/INFO]: God_Mota left the game
-[15:20:36] [Server thread/INFO]: Marypoppin888 lost connection: Disconnected
-[15:20:36] [Server thread/INFO]: Marypoppin888 left the game
-[15:20:47] [Server thread/INFO]: Stopping the server
-[15:20:47] [Server thread/INFO]: Stopping server
-[15:20:47] [Server thread/INFO]: Saving players
-[15:20:47] [Server thread/INFO]: Saving worlds
-[15:20:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:20:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:20:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:20:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:20:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:20:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:20:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:45:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/D:/Pie/Server%20MC/CST_Server/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:45:15] [main/INFO]: Compatibility level set to JAVA_21
+[20:45:15] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:45:15] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:45:15] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[20:45:15] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[20:45:15] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:45:23] [main/INFO]: Initializing ServerSide Packet Registries
+[20:45:24] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:45:25] [Worker-Main-3/ERROR]: Couldn't parse data file 'structory:harvest/old_manor/treasure' from 'structory:loot_table/harvest/old_manor/treasure.json': DataResult.Error['Item must not be minecraft:air; Item must not be minecraft:air': net.minecraft.class_52@71ced988]
+[20:45:26] [main/INFO]: Loaded 1384 recipes
+[20:45:26] [main/INFO]: Loaded 1495 advancements
+[20:45:26] [main/INFO]: Applied 66 biome modifications to 63 of 64 new biomes in 14.01 ms
+[20:45:26] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[20:45:26] [Server thread/INFO]: Loading properties
+[20:45:26] [Server thread/INFO]: Default game type: SURVIVAL
+[20:45:26] [Server thread/INFO]: Generating keypair
+[20:45:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:45:26] [Server thread/INFO]: Using default channel type
+[20:45:26] [Server thread/INFO]: Preparing level "world"
+[20:45:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:45:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:45:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:45:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:45:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:45:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:45:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:45:30] [Server thread/INFO]: Time elapsed: 2639 ms
+[20:45:30] [Server thread/INFO]: Done (3.202s)! For help, type "help"
+[20:45:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[20:45:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[20:45:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[20:45:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[20:45:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[20:45:30] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[20:45:30] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[20:45:30] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@6e305f77 for service interface journeymap.api.services.ClientPlatformService
+[20:45:30] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@1a9a4dfe for service interface journeymap.api.services.CommonPlatformService
+[20:46:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:50:34] [User Authenticator #1/INFO]: UUID of player Marypoppin888 is c2340b4a-e261-492f-a067-75c231dc8d70
+[20:50:35] [Server thread/INFO]: Marypoppin888[/172.30.249.12:64315] logged in with entity id 9 at (72.19966990695457, 65.0, 381.3582135793624)
+[20:50:35] [Server thread/INFO]: Marypoppin888 joined the game
+[20:50:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2481ms or 49 ticks behind
+[20:53:37] [User Authenticator #2/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
+[20:53:39] [Server thread/INFO]: CChatchawam[/172.30.99.150:54643] logged in with entity id 631 at (60.12543904850525, 63.0, 375.91971457674697)
+[20:53:39] [Server thread/INFO]: CChatchawam joined the game
+[20:54:40] [Server thread/WARN]: CChatchawam moved too quickly! 4.43866570599495,0.0,-11.632848502830825
+[20:57:08] [Server thread/INFO]: CChatchawam lost connection: Timed out
+[20:57:08] [Server thread/INFO]: CChatchawam left the game
+[20:57:28] [User Authenticator #3/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
+[20:57:29] [Server thread/INFO]: CChatchawam[/172.30.99.150:55122] logged in with entity id 1616 at (-35.3110386207703, 70.0, 429.30000001192093)
+[20:57:29] [Server thread/INFO]: CChatchawam joined the game
+[20:57:46] [Server thread/WARN]: CChatchawam moved too quickly! 9.652268836551494,-1.0,-3.0249661662135736
+[20:59:33] [Server thread/WARN]: CChatchawam moved too quickly! 9.632939717097237,1.2491870787446828,-3.544882301379573
+[21:09:21] [Server thread/INFO]: <CChatchawam> .gm1
+[21:09:36] [Server thread/INFO]: <Marypoppin888> ห้ะ
+[21:10:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=49, y=67, z=430} class_2338{x=48, y=67, z=429}
+[21:12:03] [Server thread/WARN]: CChatchawam moved too quickly! -9.88161703490924,1.0,-1.7162704854739559
+[21:14:02] [Server thread/WARN]: CChatchawam moved too quickly! 2.805811376599536,-1.1451067006516382,17.897279757753154
+[21:15:21] [Server thread/WARN]: CChatchawam moved too quickly! 9.640483687374754,-0.7967356006687112,2.64322751817906
+[21:15:27] [Server thread/INFO]: CChatchawam was slain by Enderman
+[21:15:46] [Server thread/INFO]: CChatchawam lost connection: Timed out
+[21:15:46] [Server thread/INFO]: CChatchawam left the game
+[21:16:04] [User Authenticator #4/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
+[21:16:19] [Server thread/INFO]: CChatchawam[/172.30.99.150:57018] logged in with entity id 6715 at (126.3993897996013, 68.0, 861.179092280793)
+[21:16:19] [Server thread/INFO]: CChatchawam joined the game
+[21:16:28] [Server thread/WARN]: CChatchawam moved too quickly! 1.980087438511191,0.20326439933128881,9.835719773665126
+[21:16:33] [Server thread/WARN]: CChatchawam moved too quickly! 3.2070602421011074,0.0,22.16729557513699
+[21:16:35] [Server thread/WARN]: CChatchawam moved too quickly! 2.313843295913543,0.0,11.079719438332859
+[21:16:37] [Server thread/WARN]: CChatchawam moved too quickly! 2.294371790196145,6.75,11.083805659171674
+[21:16:37] [Server thread/WARN]: CChatchawam moved too quickly! 2.120354835878274,0.0,11.11747953718583
+[21:16:39] [Server thread/WARN]: CChatchawam moved too quickly! 1.9746664452343197,2.25,11.145233230082681
+[21:16:41] [Server thread/WARN]: CChatchawam moved too quickly! 1.7409459138937038,6.75,11.184120019436591
+[21:16:43] [Server thread/WARN]: CChatchawam moved too quickly! 1.5351466734730792,0.0,11.214266973872554
+[21:16:43] [Server thread/WARN]: CChatchawam moved too quickly! 1.4770672961450444,0.0,11.222070148922967
+[21:16:43] [Server thread/WARN]: CChatchawam moved too quickly! 1.418217648197846,0.0,11.22956072920357
+[21:16:44] [Server thread/WARN]: CChatchawam moved too quickly! 1.271331165010217,0.0,11.247254717611554
+[21:16:46] [Server thread/WARN]: CChatchawam moved too quickly! 1.271331165010217,0.0,11.247254717611554
+[21:16:50] [Server thread/WARN]: CChatchawam moved too quickly! 0.8575671501684425,0.0,11.286384611243363
+[21:16:51] [Server thread/WARN]: CChatchawam moved too quickly! 0.8575671501684425,0.0,11.28638461124342
+[21:16:52] [Server thread/WARN]: CChatchawam moved too quickly! -0.17687967726018883,0.0,11.31761755139371
+[21:16:57] [Server thread/WARN]: CChatchawam moved too quickly! -0.1475824141603539,0.0,11.318037867670341
+[21:17:00] [Server thread/WARN]: CChatchawam moved too quickly! 5.456361720626962,0.0,21.970074812261828
+[21:17:05] [Server thread/WARN]: CChatchawam moved too quickly! -4.1012026280280995,0.0,20.72611977509837
+[21:17:43] [Server thread/WARN]: CChatchawam moved too quickly! -1.0842008987550287,0.0,-22.57264103614216
+[21:17:52] [Server thread/WARN]: CChatchawam moved too quickly! 1.1530449587660456,-11.19886200217772,-0.9528076753432515
+[21:19:18] [Server thread/WARN]: CChatchawam moved too quickly! -3.1526893856499782,3.2531999805212024,12.83539531084432
+[21:19:19] [Server thread/WARN]: CChatchawam moved too quickly! 0.3113253388312387,-9.0,5.346580828532524
+[21:19:19] [Server thread/WARN]: CChatchawam moved too quickly! 0.5922462111567199,0.0,11.303438117705923
+[21:19:20] [Server thread/WARN]: CChatchawam moved too quickly! 0.5922462111567199,0.0,11.303438117705923
+[21:19:20] [Server thread/WARN]: CChatchawam moved too quickly! 0.47372298066693475,0.0,11.308857026749934
+[21:19:21] [Server thread/WARN]: CChatchawam moved too quickly! 0.26584846376889004,0.0,11.315851953165406
+[21:19:21] [Server thread/WARN]: CChatchawam moved too quickly! 0.26584846376889004,0.0,11.315851953165406
+[21:19:22] [Server thread/WARN]: CChatchawam moved too quickly! 0.26584846376889004,0.0,11.315851953165406
+[21:19:23] [Server thread/WARN]: CChatchawam moved too quickly! 0.2365553962418403,0.0,11.316505028857364
+[21:19:23] [Server thread/WARN]: CChatchawam moved too quickly! 0.18736677498009158,0.0,11.317319349476747
+[21:19:24] [Server thread/WARN]: CChatchawam moved too quickly! -0.049172380108132074,0.0,11.316407427324748
+[21:19:30] [Server thread/WARN]: CChatchawam moved too quickly! -0.6215043226050341,0.0,11.301924169511722
+[21:19:56] [Server thread/INFO]: CChatchawam lost connection: Disconnected
+[21:19:56] [Server thread/INFO]: CChatchawam left the game
+[21:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[21:20:39] [User Authenticator #5/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
+[21:20:40] [Server thread/INFO]: CChatchawam[/172.30.99.150:57712] logged in with entity id 11472 at (149.29611722792785, 80.2531999805212, 1087.6229075511712)
+[21:20:40] [Server thread/INFO]: CChatchawam joined the game
+[21:20:47] [Server thread/WARN]: CChatchawam moved too quickly! 1.8141416471346474,0.0,-21.27031254468966
+[21:20:48] [Server thread/WARN]: CChatchawam moved too quickly! -3.3166938409662805,0.0,18.547803240373582
+[21:20:49] [Server thread/WARN]: CChatchawam moved too quickly! 0.9665896782641994,0.0,22.61660063141062
+[21:20:52] [Server thread/WARN]: CChatchawam moved too quickly! 0.6507582595637302,0.0,11.30021524314111
+[21:20:53] [Server thread/WARN]: CChatchawam moved too quickly! 0.5427483754778564,0.0,11.305867136488587
+[21:20:53] [Server thread/WARN]: CChatchawam moved too quickly! 0.48312654536070454,0.0,11.308628989989984
+[21:20:54] [Server thread/WARN]: CChatchawam moved too quickly! -0.246319232029947,0.0,11.316285762741472
+[21:20:54] [Server thread/WARN]: CChatchawam moved wrongly!
+[21:20:55] [Server thread/WARN]: CChatchawam moved too quickly! 0.08826087144805683,0.0,11.318544541063375
+[21:20:56] [Server thread/WARN]: CChatchawam moved too quickly! 0.11828416014637355,0.0,11.318370477501048
+[21:21:00] [Server thread/WARN]: CChatchawam moved too quickly! -0.08789995379979132,0.0,11.31865855944352
+[21:21:02] [Server thread/INFO]: Marypoppin888 lost connection: Disconnected
+[21:21:02] [Server thread/INFO]: Marypoppin888 left the game
+[21:21:03] [Server thread/WARN]: CChatchawam moved too quickly! -0.6511178981596686,0.0,11.300230535547144
+[21:21:05] [Server thread/WARN]: CChatchawam moved too quickly! -3.1796060009074267,0.0,10.122832070363074
+[21:21:45] [Server thread/INFO]: Villager class_1646['Fisherman'/12281, l='ServerLevel[world]', x=132.33, y=61.05, z=1405.70] died, message: 'Fisherman drowned'
+[21:22:01] [Server thread/WARN]: CChatchawam moved wrongly!
+[21:22:05] [Server thread/WARN]: CChatchawam moved too quickly! 0.0,-11.25,0.0
+[21:22:23] [Server thread/INFO]: CChatchawam lost connection: Disconnected
+[21:22:23] [Server thread/INFO]: CChatchawam left the game
+[21:23:01] [Server thread/INFO]: Stopping the server
+[21:23:01] [Server thread/INFO]: Stopping server
+[21:23:01] [Server thread/INFO]: Saving players
+[21:23:01] [Server thread/INFO]: Saving worlds
+[21:23:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:23:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:23:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
