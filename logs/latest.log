@@ -1,202 +1,48 @@
-[20:45:11] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[20:45:11] [main/INFO]: Loading 54 mods:
-	- appleskin 3.0.6+mc1.21.3
-	   \-- cloth-config 16.0.141
-	        \-- cloth-basic-math 0.6.1
-	- balm-fabric 21.3.3
-	   \-- kuma_api 21.3.1-SNAPSHOT
-	- fabric-api 0.109.0+1.21.3
-	   |-- fabric-api-base 0.4.50+119c825640
-	   |-- fabric-api-lookup-api-v1 1.6.81+fd37071f40
-	   |-- fabric-biome-api-v1 14.0.6+fd37071f40
-	   |-- fabric-block-api-v1 1.0.28+fd37071f40
-	   |-- fabric-block-view-api-v2 1.0.16+fd37071f40
-	   |-- fabric-blockrenderlayer-v1 2.0.4+fd37071f40
-	   |-- fabric-client-tags-api-v1 1.1.24+fd37071f40
-	   |-- fabric-command-api-v1 1.2.58+f71b366f40
-	   |-- fabric-command-api-v2 2.2.37+c9d82ab240
-	   |-- fabric-commands-v0 0.2.75+df3654b340
-	   |-- fabric-content-registries-v0 9.1.8+fd37071f40
-	   |-- fabric-convention-tags-v1 2.1.3+7f945d5b40
-	   |-- fabric-convention-tags-v2 2.9.3+84ebbb0e40
-	   |-- fabric-crash-report-info-v1 0.3.3+fd37071f40
-	   |-- fabric-data-attachment-api-v1 1.4.0+dbad41f140
-	   |-- fabric-data-generation-api-v1 21.0.17+fd37071f40
-	   |-- fabric-dimensions-v1 4.0.7+fd37071f40
-	   |-- fabric-entity-events-v1 2.0.8+825023f840
-	   |-- fabric-events-interaction-v0 2.0.12+c2c3ac4740
-	   |-- fabric-game-rule-api-v1 1.0.59+fd37071f40
-	   |-- fabric-item-api-v1 11.1.7+fd37071f40
-	   |-- fabric-item-group-api-v1 4.1.17+fd37071f40
-	   |-- fabric-key-binding-api-v1 1.0.53+fd37071f40
-	   |-- fabric-keybindings-v0 0.2.51+df3654b340
-	   |-- fabric-lifecycle-events-v1 2.5.1+6da5ef6940
-	   |-- fabric-loot-api-v2 3.0.26+3f89f5a540
-	   |-- fabric-loot-api-v3 1.0.14+fd37071f40
-	   |-- fabric-message-api-v1 6.0.21+fd37071f40
-	   |-- fabric-model-loading-api-v1 3.0.9+fd37071f40
-	   |-- fabric-networking-api-v1 4.3.5+fd37071f40
-	   |-- fabric-object-builder-api-v1 17.0.9+fd37071f40
-	   |-- fabric-particles-v1 4.0.10+fd37071f40
-	   |-- fabric-recipe-api-v1 7.0.4+fd37071f40
-	   |-- fabric-registry-sync-v0 5.2.2+fd37071f40
-	   |-- fabric-renderer-api-v1 4.0.5+fd37071f40
-	   |-- fabric-renderer-indigo 1.9.5+fd37071f40
-	   |-- fabric-rendering-data-attachment-v1 0.3.54+73761d2e40
-	   |-- fabric-rendering-fluids-v1 3.1.15+fd37071f40
-	   |-- fabric-rendering-v0 1.1.83+df3654b340
-	   |-- fabric-rendering-v1 8.0.7+fd37071f40
-	   |-- fabric-resource-conditions-api-v1 5.0.8+fd37071f40
-	   |-- fabric-resource-loader-v0 3.0.6+fd37071f40
-	   |-- fabric-screen-api-v1 2.0.34+fd37071f40
-	   |-- fabric-screen-handler-api-v1 1.3.100+fd37071f40
-	   |-- fabric-sound-api-v1 1.0.29+fd37071f40
-	   |-- fabric-transfer-api-v1 5.4.3+fd37071f40
-	   \-- fabric-transitive-access-wideners-v1 6.1.8+fd37071f40
-	- fabricloader 0.16.9
-	   \-- mixinextras 0.4.1
-	- geckolib 4.7.1
-	- jade 16.0.4+fabric
-	- java 22
-	- journeymap 1.21.3-6.0.0-beta.29
-	   |-- ar_com_hjg_pngj 2.1.0
-	   |-- commonnetworking 1.0.17-1.21.3
-	   \-- journeymap-api-fabric 2.0.0-1.21.3-SNAPSHOT
-	- minecraft 1.21.3
-	- structory 1.3.7
-	- waystones 21.3.3
-[20:45:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/D:/Pie/Server%20MC/CST_Server/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:45:15] [main/INFO]: Compatibility level set to JAVA_21
-[20:45:15] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:45:15] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:45:15] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[20:45:15] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[20:45:15] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:45:23] [main/INFO]: Initializing ServerSide Packet Registries
-[20:45:24] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:45:25] [Worker-Main-3/ERROR]: Couldn't parse data file 'structory:harvest/old_manor/treasure' from 'structory:loot_table/harvest/old_manor/treasure.json': DataResult.Error['Item must not be minecraft:air; Item must not be minecraft:air': net.minecraft.class_52@71ced988]
-[20:45:26] [main/INFO]: Loaded 1384 recipes
-[20:45:26] [main/INFO]: Loaded 1495 advancements
-[20:45:26] [main/INFO]: Applied 66 biome modifications to 63 of 64 new biomes in 14.01 ms
-[20:45:26] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[20:45:26] [Server thread/INFO]: Loading properties
-[20:45:26] [Server thread/INFO]: Default game type: SURVIVAL
-[20:45:26] [Server thread/INFO]: Generating keypair
-[20:45:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:45:26] [Server thread/INFO]: Using default channel type
-[20:45:26] [Server thread/INFO]: Preparing level "world"
-[20:45:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:45:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:45:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:45:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:45:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:45:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:45:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:45:30] [Server thread/INFO]: Time elapsed: 2639 ms
-[20:45:30] [Server thread/INFO]: Done (3.202s)! For help, type "help"
-[20:45:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[20:45:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[20:45:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[20:45:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[20:45:30] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[20:45:30] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
-[20:45:30] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[20:45:30] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@6e305f77 for service interface journeymap.api.services.ClientPlatformService
-[20:45:30] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@1a9a4dfe for service interface journeymap.api.services.CommonPlatformService
-[20:46:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:50:34] [User Authenticator #1/INFO]: UUID of player Marypoppin888 is c2340b4a-e261-492f-a067-75c231dc8d70
-[20:50:35] [Server thread/INFO]: Marypoppin888[/172.30.249.12:64315] logged in with entity id 9 at (72.19966990695457, 65.0, 381.3582135793624)
-[20:50:35] [Server thread/INFO]: Marypoppin888 joined the game
-[20:50:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2481ms or 49 ticks behind
-[20:53:37] [User Authenticator #2/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
-[20:53:39] [Server thread/INFO]: CChatchawam[/172.30.99.150:54643] logged in with entity id 631 at (60.12543904850525, 63.0, 375.91971457674697)
-[20:53:39] [Server thread/INFO]: CChatchawam joined the game
-[20:54:40] [Server thread/WARN]: CChatchawam moved too quickly! 4.43866570599495,0.0,-11.632848502830825
-[20:57:08] [Server thread/INFO]: CChatchawam lost connection: Timed out
-[20:57:08] [Server thread/INFO]: CChatchawam left the game
-[20:57:28] [User Authenticator #3/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
-[20:57:29] [Server thread/INFO]: CChatchawam[/172.30.99.150:55122] logged in with entity id 1616 at (-35.3110386207703, 70.0, 429.30000001192093)
-[20:57:29] [Server thread/INFO]: CChatchawam joined the game
-[20:57:46] [Server thread/WARN]: CChatchawam moved too quickly! 9.652268836551494,-1.0,-3.0249661662135736
-[20:59:33] [Server thread/WARN]: CChatchawam moved too quickly! 9.632939717097237,1.2491870787446828,-3.544882301379573
-[21:09:21] [Server thread/INFO]: <CChatchawam> .gm1
-[21:09:36] [Server thread/INFO]: <Marypoppin888> ห้ะ
-[21:10:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=49, y=67, z=430} class_2338{x=48, y=67, z=429}
-[21:12:03] [Server thread/WARN]: CChatchawam moved too quickly! -9.88161703490924,1.0,-1.7162704854739559
-[21:14:02] [Server thread/WARN]: CChatchawam moved too quickly! 2.805811376599536,-1.1451067006516382,17.897279757753154
-[21:15:21] [Server thread/WARN]: CChatchawam moved too quickly! 9.640483687374754,-0.7967356006687112,2.64322751817906
-[21:15:27] [Server thread/INFO]: CChatchawam was slain by Enderman
-[21:15:46] [Server thread/INFO]: CChatchawam lost connection: Timed out
-[21:15:46] [Server thread/INFO]: CChatchawam left the game
-[21:16:04] [User Authenticator #4/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
-[21:16:19] [Server thread/INFO]: CChatchawam[/172.30.99.150:57018] logged in with entity id 6715 at (126.3993897996013, 68.0, 861.179092280793)
-[21:16:19] [Server thread/INFO]: CChatchawam joined the game
-[21:16:28] [Server thread/WARN]: CChatchawam moved too quickly! 1.980087438511191,0.20326439933128881,9.835719773665126
-[21:16:33] [Server thread/WARN]: CChatchawam moved too quickly! 3.2070602421011074,0.0,22.16729557513699
-[21:16:35] [Server thread/WARN]: CChatchawam moved too quickly! 2.313843295913543,0.0,11.079719438332859
-[21:16:37] [Server thread/WARN]: CChatchawam moved too quickly! 2.294371790196145,6.75,11.083805659171674
-[21:16:37] [Server thread/WARN]: CChatchawam moved too quickly! 2.120354835878274,0.0,11.11747953718583
-[21:16:39] [Server thread/WARN]: CChatchawam moved too quickly! 1.9746664452343197,2.25,11.145233230082681
-[21:16:41] [Server thread/WARN]: CChatchawam moved too quickly! 1.7409459138937038,6.75,11.184120019436591
-[21:16:43] [Server thread/WARN]: CChatchawam moved too quickly! 1.5351466734730792,0.0,11.214266973872554
-[21:16:43] [Server thread/WARN]: CChatchawam moved too quickly! 1.4770672961450444,0.0,11.222070148922967
-[21:16:43] [Server thread/WARN]: CChatchawam moved too quickly! 1.418217648197846,0.0,11.22956072920357
-[21:16:44] [Server thread/WARN]: CChatchawam moved too quickly! 1.271331165010217,0.0,11.247254717611554
-[21:16:46] [Server thread/WARN]: CChatchawam moved too quickly! 1.271331165010217,0.0,11.247254717611554
-[21:16:50] [Server thread/WARN]: CChatchawam moved too quickly! 0.8575671501684425,0.0,11.286384611243363
-[21:16:51] [Server thread/WARN]: CChatchawam moved too quickly! 0.8575671501684425,0.0,11.28638461124342
-[21:16:52] [Server thread/WARN]: CChatchawam moved too quickly! -0.17687967726018883,0.0,11.31761755139371
-[21:16:57] [Server thread/WARN]: CChatchawam moved too quickly! -0.1475824141603539,0.0,11.318037867670341
-[21:17:00] [Server thread/WARN]: CChatchawam moved too quickly! 5.456361720626962,0.0,21.970074812261828
-[21:17:05] [Server thread/WARN]: CChatchawam moved too quickly! -4.1012026280280995,0.0,20.72611977509837
-[21:17:43] [Server thread/WARN]: CChatchawam moved too quickly! -1.0842008987550287,0.0,-22.57264103614216
-[21:17:52] [Server thread/WARN]: CChatchawam moved too quickly! 1.1530449587660456,-11.19886200217772,-0.9528076753432515
-[21:19:18] [Server thread/WARN]: CChatchawam moved too quickly! -3.1526893856499782,3.2531999805212024,12.83539531084432
-[21:19:19] [Server thread/WARN]: CChatchawam moved too quickly! 0.3113253388312387,-9.0,5.346580828532524
-[21:19:19] [Server thread/WARN]: CChatchawam moved too quickly! 0.5922462111567199,0.0,11.303438117705923
-[21:19:20] [Server thread/WARN]: CChatchawam moved too quickly! 0.5922462111567199,0.0,11.303438117705923
-[21:19:20] [Server thread/WARN]: CChatchawam moved too quickly! 0.47372298066693475,0.0,11.308857026749934
-[21:19:21] [Server thread/WARN]: CChatchawam moved too quickly! 0.26584846376889004,0.0,11.315851953165406
-[21:19:21] [Server thread/WARN]: CChatchawam moved too quickly! 0.26584846376889004,0.0,11.315851953165406
-[21:19:22] [Server thread/WARN]: CChatchawam moved too quickly! 0.26584846376889004,0.0,11.315851953165406
-[21:19:23] [Server thread/WARN]: CChatchawam moved too quickly! 0.2365553962418403,0.0,11.316505028857364
-[21:19:23] [Server thread/WARN]: CChatchawam moved too quickly! 0.18736677498009158,0.0,11.317319349476747
-[21:19:24] [Server thread/WARN]: CChatchawam moved too quickly! -0.049172380108132074,0.0,11.316407427324748
-[21:19:30] [Server thread/WARN]: CChatchawam moved too quickly! -0.6215043226050341,0.0,11.301924169511722
-[21:19:56] [Server thread/INFO]: CChatchawam lost connection: Disconnected
-[21:19:56] [Server thread/INFO]: CChatchawam left the game
-[21:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[21:20:39] [User Authenticator #5/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
-[21:20:40] [Server thread/INFO]: CChatchawam[/172.30.99.150:57712] logged in with entity id 11472 at (149.29611722792785, 80.2531999805212, 1087.6229075511712)
-[21:20:40] [Server thread/INFO]: CChatchawam joined the game
-[21:20:47] [Server thread/WARN]: CChatchawam moved too quickly! 1.8141416471346474,0.0,-21.27031254468966
-[21:20:48] [Server thread/WARN]: CChatchawam moved too quickly! -3.3166938409662805,0.0,18.547803240373582
-[21:20:49] [Server thread/WARN]: CChatchawam moved too quickly! 0.9665896782641994,0.0,22.61660063141062
-[21:20:52] [Server thread/WARN]: CChatchawam moved too quickly! 0.6507582595637302,0.0,11.30021524314111
-[21:20:53] [Server thread/WARN]: CChatchawam moved too quickly! 0.5427483754778564,0.0,11.305867136488587
-[21:20:53] [Server thread/WARN]: CChatchawam moved too quickly! 0.48312654536070454,0.0,11.308628989989984
-[21:20:54] [Server thread/WARN]: CChatchawam moved too quickly! -0.246319232029947,0.0,11.316285762741472
-[21:20:54] [Server thread/WARN]: CChatchawam moved wrongly!
-[21:20:55] [Server thread/WARN]: CChatchawam moved too quickly! 0.08826087144805683,0.0,11.318544541063375
-[21:20:56] [Server thread/WARN]: CChatchawam moved too quickly! 0.11828416014637355,0.0,11.318370477501048
-[21:21:00] [Server thread/WARN]: CChatchawam moved too quickly! -0.08789995379979132,0.0,11.31865855944352
-[21:21:02] [Server thread/INFO]: Marypoppin888 lost connection: Disconnected
-[21:21:02] [Server thread/INFO]: Marypoppin888 left the game
-[21:21:03] [Server thread/WARN]: CChatchawam moved too quickly! -0.6511178981596686,0.0,11.300230535547144
-[21:21:05] [Server thread/WARN]: CChatchawam moved too quickly! -3.1796060009074267,0.0,10.122832070363074
-[21:21:45] [Server thread/INFO]: Villager class_1646['Fisherman'/12281, l='ServerLevel[world]', x=132.33, y=61.05, z=1405.70] died, message: 'Fisherman drowned'
-[21:22:01] [Server thread/WARN]: CChatchawam moved wrongly!
-[21:22:05] [Server thread/WARN]: CChatchawam moved too quickly! 0.0,-11.25,0.0
-[21:22:23] [Server thread/INFO]: CChatchawam lost connection: Disconnected
-[21:22:23] [Server thread/INFO]: CChatchawam left the game
-[21:23:01] [Server thread/INFO]: Stopping the server
-[21:23:01] [Server thread/INFO]: Stopping server
-[21:23:01] [Server thread/INFO]: Saving players
-[21:23:01] [Server thread/INFO]: Saving worlds
-[21:23:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:23:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:23:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:52:04] [User Authenticator #2/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
+[00:52:05] [Server thread/INFO]: CChatchawam[/172.30.99.150:61546] logged in with entity id 6946 at (174.34387686064937, 102.7531999805212, 1552.4542924909965)
+[00:52:05] [Server thread/INFO]: CChatchawam joined the game
+[00:52:11] [Server thread/WARN]: CChatchawam moved too quickly! 1.5852923491622448,0.0,-22.53291159024002
+[00:52:12] [Server thread/WARN]: CChatchawam moved too quickly! 0.2003610450088047,-2.25,-12.699218544999212
+[00:52:12] [Server thread/WARN]: CChatchawam moved too quickly! 0.17796472828248966,0.0,-11.317600684769559
+[00:52:12] [Server thread/WARN]: CChatchawam moved too quickly! 0.1486671770445014,0.0,-11.317998287325508
+[00:52:56] [Server thread/WARN]: CChatchawam moved too quickly! -0.7318613983917714,0.0,-11.63901328621364
+[00:52:58] [Server thread/WARN]: CChatchawam moved too quickly! -0.7199038472010955,0.0,-11.639737689510639
+[00:52:59] [Server thread/WARN]: CChatchawam moved too quickly! -0.6414542098903553,0.0,-11.644346165533989
+[00:52:59] [Server thread/WARN]: CChatchawam moved too quickly! -0.31004844954355804,0.0,-11.654341838711389
+[00:53:01] [Server thread/WARN]: CChatchawam moved too quickly! -1.8250013894285075,0.0,-11.518317270366197
+[00:53:01] [Server thread/WARN]: CChatchawam moved too quickly! -1.8250013894285075,0.0,-11.518317270366197
+[00:53:02] [Server thread/WARN]: CChatchawam moved too quickly! -1.8251466176425737,0.0,-11.518213500463048
+[00:53:03] [Server thread/WARN]: CChatchawam moved too quickly! -1.5387249521343165,4.500000000000028,-9.876859120907284
+[00:53:05] [Server thread/WARN]: CChatchawam moved too quickly! -1.5387249521343165,2.700000000000017,-9.876859120907284
+[00:53:11] [Server thread/WARN]: CChatchawam moved too quickly! 4.60138434893085,0.0,-9.905114936380642
+[00:53:15] [Server thread/WARN]: CChatchawam moved too quickly! -0.3979592984822773,0.0,-11.655208640133878
+[00:53:19] [Server thread/WARN]: CChatchawam moved too quickly! -3.0780639837731627,0.0,-11.248457033178283
+[00:53:20] [Server thread/WARN]: CChatchawam moved too quickly! -3.0780639837731627,0.0,-11.248457033178283
+[00:53:50] [Server thread/WARN]: CChatchawam moved too quickly! -1.5248290434548437,2.975575911786308,-9.746104147125607
+[00:55:50] [Server thread/INFO]: CChatchawam has made the advancement [Isn't It Iron Pick]
+[00:58:21] [Server thread/INFO]: CChatchawam lost connection: Timed out
+[00:58:21] [Server thread/INFO]: CChatchawam left the game
+[01:21:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
+[01:21:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
+[01:21:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
+[01:21:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
+[01:21:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
+[01:21:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
+[01:21:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
+[01:21:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
+[01:21:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=60, y=66, z=461}
+[01:21:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=60, y=66, z=461}
+[01:27:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=66, y=66, z=435} class_2338{x=59, y=65, z=434}
+[01:33:54] [Server thread/INFO]: Marypoppin888 lost connection: Disconnected
+[01:33:54] [Server thread/INFO]: Marypoppin888 left the game
+[01:34:16] [Server thread/INFO]: Stopping the server
+[01:34:16] [Server thread/INFO]: Stopping server
+[01:34:16] [Server thread/INFO]: Saving players
+[01:34:16] [Server thread/INFO]: Saving worlds
+[01:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

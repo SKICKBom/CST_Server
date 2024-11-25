@@ -168,6 +168,7 @@
       "cooked_porkchop": "2024-11-25 12:51:50 +0700",
       "bread": "2024-11-25 21:01:01 +0700",
       "cooked_chicken": "2024-11-25 13:37:41 +0700",
+      "cooked_mutton": "2024-11-26 00:56:46 +0700",
       "cooked_beef": "2024-11-25 13:49:52 +0700",
       "cod": "2024-11-25 15:09:04 +0700"
     },
@@ -1332,6 +1333,24 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-11-25 21:18:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-26 00:55:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-11-26 00:54:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-11-26 00:54:54 +0700"
     },
     "done": true
   },
