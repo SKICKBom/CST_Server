@@ -1,48 +1,135 @@
-[00:52:04] [User Authenticator #2/INFO]: UUID of player CChatchawam is 750488b5-0b2e-4664-bd49-1a5827147373
-[00:52:05] [Server thread/INFO]: CChatchawam[/172.30.99.150:61546] logged in with entity id 6946 at (174.34387686064937, 102.7531999805212, 1552.4542924909965)
-[00:52:05] [Server thread/INFO]: CChatchawam joined the game
-[00:52:11] [Server thread/WARN]: CChatchawam moved too quickly! 1.5852923491622448,0.0,-22.53291159024002
-[00:52:12] [Server thread/WARN]: CChatchawam moved too quickly! 0.2003610450088047,-2.25,-12.699218544999212
-[00:52:12] [Server thread/WARN]: CChatchawam moved too quickly! 0.17796472828248966,0.0,-11.317600684769559
-[00:52:12] [Server thread/WARN]: CChatchawam moved too quickly! 0.1486671770445014,0.0,-11.317998287325508
-[00:52:56] [Server thread/WARN]: CChatchawam moved too quickly! -0.7318613983917714,0.0,-11.63901328621364
-[00:52:58] [Server thread/WARN]: CChatchawam moved too quickly! -0.7199038472010955,0.0,-11.639737689510639
-[00:52:59] [Server thread/WARN]: CChatchawam moved too quickly! -0.6414542098903553,0.0,-11.644346165533989
-[00:52:59] [Server thread/WARN]: CChatchawam moved too quickly! -0.31004844954355804,0.0,-11.654341838711389
-[00:53:01] [Server thread/WARN]: CChatchawam moved too quickly! -1.8250013894285075,0.0,-11.518317270366197
-[00:53:01] [Server thread/WARN]: CChatchawam moved too quickly! -1.8250013894285075,0.0,-11.518317270366197
-[00:53:02] [Server thread/WARN]: CChatchawam moved too quickly! -1.8251466176425737,0.0,-11.518213500463048
-[00:53:03] [Server thread/WARN]: CChatchawam moved too quickly! -1.5387249521343165,4.500000000000028,-9.876859120907284
-[00:53:05] [Server thread/WARN]: CChatchawam moved too quickly! -1.5387249521343165,2.700000000000017,-9.876859120907284
-[00:53:11] [Server thread/WARN]: CChatchawam moved too quickly! 4.60138434893085,0.0,-9.905114936380642
-[00:53:15] [Server thread/WARN]: CChatchawam moved too quickly! -0.3979592984822773,0.0,-11.655208640133878
-[00:53:19] [Server thread/WARN]: CChatchawam moved too quickly! -3.0780639837731627,0.0,-11.248457033178283
-[00:53:20] [Server thread/WARN]: CChatchawam moved too quickly! -3.0780639837731627,0.0,-11.248457033178283
-[00:53:50] [Server thread/WARN]: CChatchawam moved too quickly! -1.5248290434548437,2.975575911786308,-9.746104147125607
-[00:55:50] [Server thread/INFO]: CChatchawam has made the advancement [Isn't It Iron Pick]
-[00:58:21] [Server thread/INFO]: CChatchawam lost connection: Timed out
-[00:58:21] [Server thread/INFO]: CChatchawam left the game
-[01:21:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
-[01:21:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
-[01:21:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
-[01:21:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
-[01:21:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
-[01:21:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
-[01:21:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
-[01:21:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=57, y=67, z=456}
-[01:21:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=60, y=66, z=461}
-[01:21:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=58, y=67, z=456} class_2338{x=60, y=66, z=461}
-[01:27:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=66, y=66, z=435} class_2338{x=59, y=65, z=434}
-[01:33:54] [Server thread/INFO]: Marypoppin888 lost connection: Disconnected
-[01:33:54] [Server thread/INFO]: Marypoppin888 left the game
-[01:34:16] [Server thread/INFO]: Stopping the server
-[01:34:16] [Server thread/INFO]: Stopping server
-[01:34:16] [Server thread/INFO]: Saving players
-[01:34:16] [Server thread/INFO]: Saving worlds
-[01:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:19:19] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[14:19:19] [main/INFO]: Loading 54 mods:
+	- appleskin 3.0.6+mc1.21.3
+	   \-- cloth-config 16.0.141
+	        \-- cloth-basic-math 0.6.1
+	- balm-fabric 21.3.3
+	   \-- kuma_api 21.3.1-SNAPSHOT
+	- fabric-api 0.109.0+1.21.3
+	   |-- fabric-api-base 0.4.50+119c825640
+	   |-- fabric-api-lookup-api-v1 1.6.81+fd37071f40
+	   |-- fabric-biome-api-v1 14.0.6+fd37071f40
+	   |-- fabric-block-api-v1 1.0.28+fd37071f40
+	   |-- fabric-block-view-api-v2 1.0.16+fd37071f40
+	   |-- fabric-blockrenderlayer-v1 2.0.4+fd37071f40
+	   |-- fabric-client-tags-api-v1 1.1.24+fd37071f40
+	   |-- fabric-command-api-v1 1.2.58+f71b366f40
+	   |-- fabric-command-api-v2 2.2.37+c9d82ab240
+	   |-- fabric-commands-v0 0.2.75+df3654b340
+	   |-- fabric-content-registries-v0 9.1.8+fd37071f40
+	   |-- fabric-convention-tags-v1 2.1.3+7f945d5b40
+	   |-- fabric-convention-tags-v2 2.9.3+84ebbb0e40
+	   |-- fabric-crash-report-info-v1 0.3.3+fd37071f40
+	   |-- fabric-data-attachment-api-v1 1.4.0+dbad41f140
+	   |-- fabric-data-generation-api-v1 21.0.17+fd37071f40
+	   |-- fabric-dimensions-v1 4.0.7+fd37071f40
+	   |-- fabric-entity-events-v1 2.0.8+825023f840
+	   |-- fabric-events-interaction-v0 2.0.12+c2c3ac4740
+	   |-- fabric-game-rule-api-v1 1.0.59+fd37071f40
+	   |-- fabric-item-api-v1 11.1.7+fd37071f40
+	   |-- fabric-item-group-api-v1 4.1.17+fd37071f40
+	   |-- fabric-key-binding-api-v1 1.0.53+fd37071f40
+	   |-- fabric-keybindings-v0 0.2.51+df3654b340
+	   |-- fabric-lifecycle-events-v1 2.5.1+6da5ef6940
+	   |-- fabric-loot-api-v2 3.0.26+3f89f5a540
+	   |-- fabric-loot-api-v3 1.0.14+fd37071f40
+	   |-- fabric-message-api-v1 6.0.21+fd37071f40
+	   |-- fabric-model-loading-api-v1 3.0.9+fd37071f40
+	   |-- fabric-networking-api-v1 4.3.5+fd37071f40
+	   |-- fabric-object-builder-api-v1 17.0.9+fd37071f40
+	   |-- fabric-particles-v1 4.0.10+fd37071f40
+	   |-- fabric-recipe-api-v1 7.0.4+fd37071f40
+	   |-- fabric-registry-sync-v0 5.2.2+fd37071f40
+	   |-- fabric-renderer-api-v1 4.0.5+fd37071f40
+	   |-- fabric-renderer-indigo 1.9.5+fd37071f40
+	   |-- fabric-rendering-data-attachment-v1 0.3.54+73761d2e40
+	   |-- fabric-rendering-fluids-v1 3.1.15+fd37071f40
+	   |-- fabric-rendering-v0 1.1.83+df3654b340
+	   |-- fabric-rendering-v1 8.0.7+fd37071f40
+	   |-- fabric-resource-conditions-api-v1 5.0.8+fd37071f40
+	   |-- fabric-resource-loader-v0 3.0.6+fd37071f40
+	   |-- fabric-screen-api-v1 2.0.34+fd37071f40
+	   |-- fabric-screen-handler-api-v1 1.3.100+fd37071f40
+	   |-- fabric-sound-api-v1 1.0.29+fd37071f40
+	   |-- fabric-transfer-api-v1 5.4.3+fd37071f40
+	   \-- fabric-transitive-access-wideners-v1 6.1.8+fd37071f40
+	- fabricloader 0.16.9
+	   \-- mixinextras 0.4.1
+	- geckolib 4.7.1
+	- jade 16.0.4+fabric
+	- java 22
+	- journeymap 1.21.3-6.0.0-beta.29
+	   |-- ar_com_hjg_pngj 2.1.0
+	   |-- commonnetworking 1.0.17-1.21.3
+	   \-- journeymap-api-fabric 2.0.0-1.21.3-SNAPSHOT
+	- minecraft 1.21.3
+	- structory 1.3.7
+	- waystones 21.3.3
+[14:19:21] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/D:/Pie/Server%20MC/CST_Server/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:19:24] [main/INFO]: Compatibility level set to JAVA_21
+[14:19:24] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:19:24] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:19:25] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[14:19:25] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[14:19:25] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14:19:41] [main/INFO]: Initializing ServerSide Packet Registries
+[14:19:42] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:19:45] [Worker-Main-1/ERROR]: Couldn't parse data file 'structory:harvest/old_manor/treasure' from 'structory:loot_table/harvest/old_manor/treasure.json': DataResult.Error['Item must not be minecraft:air; Item must not be minecraft:air': net.minecraft.class_52@33b96ccf]
+[14:19:47] [main/INFO]: Loaded 1384 recipes
+[14:19:47] [main/INFO]: Loaded 1495 advancements
+[14:19:47] [main/INFO]: Applied 66 biome modifications to 63 of 64 new biomes in 24.88 ms
+[14:19:47] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[14:19:47] [Server thread/INFO]: Loading properties
+[14:19:47] [Server thread/INFO]: Default game type: SURVIVAL
+[14:19:47] [Server thread/INFO]: Generating keypair
+[14:19:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:19:48] [Server thread/INFO]: Using default channel type
+[14:19:48] [Server thread/INFO]: Preparing level "world"
+[14:19:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:19:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:19:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:19:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:19:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:19:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:19:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:19:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:19:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:19:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:19:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:19:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:19:54] [Server thread/INFO]: Time elapsed: 5493 ms
+[14:19:54] [Server thread/INFO]: Done (6.369s)! For help, type "help"
+[14:19:54] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[14:19:54] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[14:19:54] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[14:19:54] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[14:19:54] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[14:19:54] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[14:19:55] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[14:19:55] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@38bf30c8 for service interface journeymap.api.services.ClientPlatformService
+[14:19:55] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@79f6f05d for service interface journeymap.api.services.CommonPlatformService
+[14:20:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:22:09] [User Authenticator #1/INFO]: UUID of player Marypoppin888 is c2340b4a-e261-492f-a067-75c231dc8d70
+[14:22:10] [Server thread/INFO]: Marypoppin888[/172.30.249.12:59936] logged in with entity id 10 at (49.863338361748035, 66.0, 419.68715584702903)
+[14:22:10] [Server thread/INFO]: Marypoppin888 joined the game
+[14:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
+[14:49:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=62, y=70, z=434} class_2338{x=71, y=66, z=424}
+[14:49:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=62, y=70, z=434} class_2338{x=71, y=66, z=424}
+[15:05:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=55, y=66, z=432} class_2338{x=56, y=65, z=450}
+[16:15:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=45, y=63, z=383} class_2338{x=43, y=63, z=376}
+[16:27:06] [Server thread/INFO]: Marypoppin888 has made the advancement [Remote Getaway]
+[16:41:35] [Server thread/INFO]: Marypoppin888 has made the advancement [The City at the End of the Game]
+[16:41:54] [Server thread/INFO]: Marypoppin888 has made the advancement [Local Brewery]
+[16:43:23] [Server thread/INFO]: Marypoppin888 lost connection: Disconnected
+[16:43:23] [Server thread/INFO]: Marypoppin888 left the game
+[16:43:33] [Server thread/INFO]: Stopping the server
+[16:43:33] [Server thread/INFO]: Stopping server
+[16:43:33] [Server thread/INFO]: Saving players
+[16:43:33] [Server thread/INFO]: Saving worlds
+[16:43:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:43:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:43:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:43:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:43:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:43:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:43:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
