@@ -1,5 +1,5 @@
-[15:25:55] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[15:25:56] [main/INFO]: Loading 54 mods:
+[19:55:20] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[19:55:20] [main/INFO]: Loading 54 mods:
 	- appleskin 3.0.6+mc1.21.3
 	   \-- cloth-config 16.0.141
 	        \-- cloth-basic-math 0.6.1
@@ -65,59 +65,100 @@
 	- minecraft 1.21.3
 	- structory 1.3.7
 	- waystones 21.3.3
-[15:26:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/D:/Pie/Server%20MC/CST_Server/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[15:26:05] [main/INFO]: Compatibility level set to JAVA_21
-[15:26:05] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:26:05] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:26:07] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[15:26:07] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[15:26:07] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[15:26:32] [main/INFO]: Initializing ServerSide Packet Registries
-[15:26:33] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:26:37] [Worker-Main-3/ERROR]: Couldn't parse data file 'structory:harvest/old_manor/treasure' from 'structory:loot_table/harvest/old_manor/treasure.json': DataResult.Error['Item must not be minecraft:air; Item must not be minecraft:air': net.minecraft.class_52@7312ad4c]
-[15:26:38] [main/INFO]: Loaded 1384 recipes
-[15:26:39] [main/INFO]: Loaded 1495 advancements
-[15:26:39] [main/INFO]: Applied 66 biome modifications to 63 of 64 new biomes in 23.23 ms
-[15:26:39] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[15:26:39] [Server thread/INFO]: Loading properties
-[15:26:39] [Server thread/INFO]: Default game type: SURVIVAL
-[15:26:39] [Server thread/INFO]: Generating keypair
-[15:26:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:26:39] [Server thread/INFO]: Using default channel type
-[15:26:39] [Server thread/INFO]: Preparing level "world"
-[15:26:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:47] [Server thread/INFO]: Time elapsed: 6611 ms
-[15:26:47] [Server thread/INFO]: Done (7.416s)! For help, type "help"
-[15:26:47] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[15:26:47] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[15:26:47] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[15:26:47] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[15:26:47] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[15:26:47] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
-[15:26:47] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[15:26:47] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@55d7d5dd for service interface journeymap.api.services.ClientPlatformService
-[15:26:47] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@feac52f for service interface journeymap.api.services.CommonPlatformService
-[15:27:08] [Server thread/INFO]: Stopping the server
-[15:27:08] [Server thread/INFO]: Stopping server
-[15:27:08] [Server thread/INFO]: Saving players
-[15:27:08] [Server thread/INFO]: Saving worlds
-[15:27:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:27:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:27:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:27:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:27:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:27:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:27:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:55:22] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/D:/Pie/Server%20MC/CST_Server/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:55:25] [main/INFO]: Compatibility level set to JAVA_21
+[19:55:25] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:55:25] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:55:25] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[19:55:25] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[19:55:25] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:55:34] [main/INFO]: Initializing ServerSide Packet Registries
+[19:55:35] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:55:36] [Worker-Main-3/ERROR]: Couldn't parse data file 'structory:harvest/old_manor/treasure' from 'structory:loot_table/harvest/old_manor/treasure.json': DataResult.Error['Item must not be minecraft:air; Item must not be minecraft:air': net.minecraft.class_52@433916d2]
+[19:55:37] [main/INFO]: Loaded 1384 recipes
+[19:55:37] [main/INFO]: Loaded 1495 advancements
+[19:55:38] [main/INFO]: Applied 66 biome modifications to 63 of 64 new biomes in 12.81 ms
+[19:55:38] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[19:55:38] [Server thread/INFO]: Loading properties
+[19:55:38] [Server thread/INFO]: Default game type: SURVIVAL
+[19:55:38] [Server thread/INFO]: Generating keypair
+[19:55:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:55:38] [Server thread/INFO]: Using default channel type
+[19:55:38] [Server thread/INFO]: Preparing level "world"
+[19:55:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:55:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:55:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:55:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:55:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:55:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:55:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:55:41] [Server thread/INFO]: Time elapsed: 2836 ms
+[19:55:41] [Server thread/INFO]: Done (3.272s)! For help, type "help"
+[19:55:41] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[19:55:41] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[19:55:41] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[19:55:41] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[19:55:41] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[19:55:41] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[19:55:41] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[19:55:41] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@5ec49920 for service interface journeymap.api.services.ClientPlatformService
+[19:55:41] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@305fd643 for service interface journeymap.api.services.CommonPlatformService
+[19:56:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:01:51] [User Authenticator #1/INFO]: UUID of player God_Mota is 26c114b7-75e0-41f9-a45a-1f4f9eb784f4
+[20:01:53] [Server thread/INFO]: God_Mota[/172.30.124.248:59182] logged in with entity id 9 at (87.5337991088421, 65.0, 372.30763303539266)
+[20:01:53] [Server thread/INFO]: God_Mota joined the game
+[20:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
+[20:02:03] [Server thread/WARN]: God_Mota moved too quickly! -7.515241166780939,0.0,-8.383705294718311
+[20:04:22] [Server thread/WARN]: God_Mota moved too quickly! 0.9726243205280056,2.765575995460509,9.8352176401566
+[20:05:08] [Server thread/WARN]: God_Mota moved too quickly! -7.500990387309699,0.0,-8.461090115458774
+[20:11:01] [Server thread/INFO]: God_Mota was shot by Skeleton
+[20:11:02] [Server thread/WARN]: God_Mota moved too quickly! -2.242908831309933,3.8999999999999915,10.338163384490429
+[20:12:11] [Server thread/WARN]: God_Mota moved too quickly! 8.879562662507993,4.55000000000004,-2.6304931948388344
+[20:13:21] [Server thread/WARN]: God_Mota moved too quickly! 10.723202153807676,0.0,-0.23064457573832442
+[20:14:53] [Server thread/WARN]: God_Mota moved too quickly! -4.897859370560639,0.0,9.362281132345174
+[20:15:08] [Server thread/WARN]: God_Mota moved too quickly! -8.021019500326645,-0.23363200604248124,8.218897398500076
+[20:15:18] [Server thread/WARN]: God_Mota moved wrongly!
+[20:15:55] [Server thread/WARN]: God_Mota moved too quickly! -10.68762830190201,2.5999999999999943,0.24375908646703692
+[20:16:10] [Server thread/WARN]: God_Mota moved too quickly! -0.5011479102896033,0.0,10.569481882510132
+[20:16:25] [Server thread/WARN]: God_Mota moved too quickly! -1.9311368869848025,0.0,10.406079246353215
+[20:16:41] [Server thread/WARN]: God_Mota moved too quickly! 0.0,-11.05,0.0
+[20:17:58] [Server thread/WARN]: God_Mota moved too quickly! -10.046477449956171,1.9499999999999957,-4.509465960247894
+[20:18:53] [Server thread/WARN]: God_Mota moved wrongly!
+[20:19:47] [Server thread/WARN]: God_Mota moved too quickly! 0.6035115028446967,0.0,10.104050787408994
+[20:19:57] [Server thread/INFO]: God_Mota lost connection: Disconnected
+[20:19:57] [Server thread/INFO]: God_Mota left the game
+[20:20:08] [User Authenticator #2/INFO]: UUID of player God_Mota is 26c114b7-75e0-41f9-a45a-1f4f9eb784f4
+[20:20:12] [Server thread/INFO]: God_Mota[/172.30.124.248:59345] logged in with entity id 7912 at (270.9339456144625, -27.80000000000001, 346.4173072467165)
+[20:20:12] [Server thread/INFO]: God_Mota joined the game
+[20:20:32] [Server thread/WARN]: God_Mota moved too quickly! 0.0,10.4,0.0
+[20:20:40] [Server thread/WARN]: God_Mota moved wrongly!
+[20:20:40] [Server thread/WARN]: God_Mota moved wrongly!
+[20:20:40] [Server thread/WARN]: God_Mota moved wrongly!
+[20:20:43] [Server thread/WARN]: God_Mota moved wrongly!
+[20:20:47] [Server thread/WARN]: God_Mota moved wrongly!
+[20:20:49] [Server thread/WARN]: God_Mota moved wrongly!
+[20:20:50] [Server thread/WARN]: God_Mota moved wrongly!
+[20:20:50] [Server thread/WARN]: God_Mota moved wrongly!
+[20:20:51] [Server thread/WARN]: God_Mota moved wrongly!
+[20:20:51] [Server thread/WARN]: God_Mota moved wrongly!
+[20:20:51] [Server thread/WARN]: God_Mota moved wrongly!
+[20:20:51] [Server thread/WARN]: God_Mota moved wrongly!
+[20:21:03] [Server thread/WARN]: God_Mota moved too quickly! 2.5473544092009774,-10.556602614620111,2.0313059641141535
+[20:21:05] [Server thread/WARN]: God_Mota moved too quickly! 0.016370872891343424,-10.314656891539183,1.0310532877597325
+[20:21:46] [Server thread/WARN]: God_Mota moved too quickly! -5.603350650394987,0.0,10.484869639054352
+[20:22:36] [Server thread/WARN]: God_Mota moved too quickly! 1.4093711744706638,0.0,10.762256754291343
+[20:23:13] [Server thread/WARN]: God_Mota moved wrongly!
+[21:10:05] [Server thread/INFO]: God_Mota lost connection: Disconnected
+[21:10:05] [Server thread/INFO]: God_Mota left the game
+[21:11:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:16:51] [Server thread/INFO]: Stopping the server
+[21:16:51] [Server thread/INFO]: Stopping server
+[21:16:51] [Server thread/INFO]: Saving players
+[21:16:51] [Server thread/INFO]: Saving worlds
+[21:16:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:16:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:16:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:16:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:16:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:16:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:16:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
